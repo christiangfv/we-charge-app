@@ -7,13 +7,13 @@ import 'flutter_flow/internationalization.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:floating_bottom_navigation_bar/floating_bottom_navigation_bar.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'index.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-
   await FlutterFlowTheme.initialize();
-
+  await Firebase.initializeApp();
   runApp(MyApp());
 }
 

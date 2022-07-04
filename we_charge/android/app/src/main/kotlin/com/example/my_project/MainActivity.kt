@@ -1,4 +1,4 @@
-package com.mycompany.wecharge
+package com.ninjahacker.wecharge
 
 import io.flutter.embedding.android.FlutterActivity
 
