@@ -1,0 +1,575 @@
+name,region,municipality,address,latitude,longitude,power_station,connector,curret,power_charger
+Cargadores Estacionamientos Aeropuerto Pudahuel - 1,Metropolitana,Pudahuel,Jean Mermoz 2101,-3.339.934,-7.079.489,22,Conector Tipo 2,AC,22
+Cargadores Estacionamientos Aeropuerto Pudahuel - 2,Metropolitana,Pudahuel,Jean Mermoz 2101,-3.339.934,-7.079.489,22,Conector Tipo 2,AC,22
+Cargadores Estacionamientos Aeropuerto Pudahuel - 3,Metropolitana,Pudahuel,Jean Mermoz 2101,-3.339.934,-7.079.489,22,Conector Tipo 2,AC,22
+Cargadores Estacionamientos Aeropuerto Pudahuel - 4,Metropolitana,Pudahuel,Jean Mermoz 2101,-3.339.934,-7.079.489,22,Conector Tipo 2,AC,22
+Cargadores Estacionamientos Aeropuerto Pudahuel - 5,Metropolitana,Pudahuel,Jean Mermoz 2101,-3.339.934,-7.079.489,22,Conector Tipo 2,AC,22
+Cargadores Estacionamientos Aeropuerto Pudahuel - 6,Metropolitana,Pudahuel,Jean Mermoz 2101,-3.339.934,-7.079.489,22,Conector Tipo 2,AC,22
+Enel X - Mc Donald Iquique - 1,Tarapacá,Iquique,Heroes de la Cocepcion 2494,-2.023.345,-7.014.197,22,Conector Tipo 2,AC,22
+Enel X Mc Donald Pajaritos - 1,Metropolitana,Maipú,Pajaritos 2872,-3.350.085,-707.576,44,Conector Tipo 2,AC,22
+Enel X Mc Donald Pajaritos - 1,Metropolitana,Maipú,Pajaritos 2872,-3.350.085,-707.576,44,Conector Tipo 2,AC,22
+Mc Donalds Independencia - 1,Metropolitana,Independencia,avenida independencia 397,-3.342.653,-706.542,7,4,Conector Tipo 2,AC,7,4
+Mc Donalds Independencia - 2,Metropolitana,Independencia,avenida independencia 397,-3.342.653,-706.542,7,4,Conector Tipo 2,AC,7,4
+Mc Donalds Kennedy - 1,Metropolitana,Las Condes,Av. Presidente Kennedy Lateral 5055,-3.340.249,-7.058.085,14,Conector Tipo 2,AC,7
+Mc Donalds Kennedy - 1,Metropolitana,Las Condes,Av. Presidente Kennedy Lateral 5055,-3.340.249,-7.058.085,14,Conector Tipo 2,AC,7
+Mc Donalds Vicuña Mackenna - 1,Metropolitana,La Florida,Av. vicuña mackenna 8153,-3.352.875,-7.059.615,7,4,Conector Tipo 2,AC,7,4
+Mc Donalds Vicuña Mackenna - 2,Metropolitana,La Florida,Av. vicuña mackenna 8153,-3.352.875,-7.059.615,7,4,Conector Tipo 2,AC,7,4
+Automóvil Club Chile - 1,Metropolitana,Providencia,Andr¿s Bello 1863,-3.342.294,-7.061.701,14,Conector Tipo 1,AC,7
+Automóvil Club Chile - 1,Metropolitana,Providencia,Andr¿s Bello 1863,-3.342.294,-7.061.701,14,Conector Tipo 2,AC,7
+Inst. Cargador Globalvía Peaje Lampa Poniente - 1,Metropolitana,Lampa,Ruta 5 Norte km.26 Poniente 000,-3.323.692,-7.075.872,55,Conector Tipo 2,AC,43
+Inst. Cargador Globalvía Peaje Lampa Poniente - 1,Metropolitana,Lampa,Ruta 5 Norte km.26 Poniente 000,-3.323.692,-7.075.872,55,CHAdeMO,DC,50
+Inst. Cargador Globalvía Peaje Lampa Poniente - 1,Metropolitana,Lampa,Ruta 5 Norte km.26 Poniente 000,-3.323.692,-7.075.872,55,Combinado Tipo 2,DC,50
+Bodegas San Francisco - 1,Metropolitana,Pudahuel,Puerto Madero 9710,-3.345.277,-7.078.616,44,Conector Tipo 2,AC,22
+Bodegas San Francisco - 1,Metropolitana,Pudahuel,Puerto Madero 9710,-3.345.277,-7.078.616,44,Conector Tipo 2,AC,22
+Bodegas San Francisco,Metropolitana,Pudahule,Camino La Farfana 390,-3.345.543,-7.080.337,22,Conector Tipo 2,AC,22
+BSF - 1,Metropolitana,Pudahuel,Americo Vespucio 400,-3.345.607,-7.076.757,44,Conector Tipo 2,AC,22
+BSF - 1,Metropolitana,Pudahuel,Americo Vespucio 400,-3.345.607,-7.076.757,44,Conector Tipo 2,AC,22
+Dreams Punta Arenas - 1,Magallanes y de la Antártica Chilena,Punta Arenas,Libertador Bernardo Ohiggins 1235,-5.316.611,-7.090.611,7,4,Conector Tipo 1,AC,7,4
+Dreams Punta Arenas - 2,Magallanes y de la Antártica Chilena,Punta Arenas,Libertador Bernardo Ohiggins 1235,-5.316.611,-7.090.611,7,4,Conector Tipo 1,AC,7,4
+Casino Enjoy Los Andes - 1,Valparaíso,Los Andes,Carretera san Martin 57,-3.292.659,-7.068.015,44,Conector Tipo 2,AC,22
+Casino Enjoy Los Andes - 1,Valparaíso,Los Andes,Carretera san Martin 57,-3.292.659,-7.068.015,44,Conector Tipo 2,AC,22
+Tanica Poniente - 1,Metropolitana,Vitacura,Santa Maria 5870,-3.338.042,-705.857,14,Conector Tipo 2,AC,7
+Tanica Poniente - 1,Metropolitana,Vitacura,Santa Maria 5870,-3.338.042,-705.857,14,Conector Tipo 2,AC,7
+Cargador Electrico Jumbo-Easy Vina del Mar - 1,Valparaíso,Vina del Mar,Uno Norte 2887,-3.303.596,-7.152.344,7,4,Conector Tipo 2,AC,7,4
+CGE Concepción 1,Biobío,Concepción,Barros Arana #64,-3.682.982,-7.305.819,7,Conector Tipo 1,AC,7
+CGE Concepción 2,Biobío,Concepción,Barros Arana #64,-3.682.982,-7.305.819,7,Conector Tipo 1,AC,7
+Electrolinera Arica - 1,Arica y Parinacota,Arica,Santa Maria 2724,-1.846.279,-7.029.762,44,Conector Tipo 2,AC,22
+Electrolinera Arica - 1,Arica y Parinacota,Arica,Santa Maria 2724,-1.846.279,-7.029.762,44,Conector Tipo 2,AC,22
+Mall ZOFRI - 1,Tarapacá,Iquique,salitrera victoria s/n,-2.020.505,-7.013.945,44,Conector Tipo 2,AC,22
+Mall ZOFRI - 1,Tarapacá,Iquique,salitrera victoria s/n,-2.020.505,-7.013.945,44,Conector Tipo 2,AC,22
+Oficina CGE, Copiapo - 1,Atacama,Copiapó,avenida circunvalaci¿n 51,-2.736.084,-703.386,44,Conector Tipo 2,AC,22
+Oficina CGE, Copiapo - 1,Atacama,Copiapó,avenida circunvalaci¿n 51,-2.736.084,-703.386,44,Conector Tipo 2,AC,22
+Plaza Vicuña Mackena 1,Coquimbo,Coquimbo,Plaza Vicuña Mackenna, Barrio Ingles.,-2.994.943,-7.133.725,7,Conector Tipo 1,AC,7
+Plaza Vicuña Mackena 2,Coquimbo,Coquimbo,Plaza Vicuña Mackenna, Barrio Ingles.,-2.994.943,-7.133.725,7,Conector Tipo 1,AC,7
+Mall Los trapenses - 1,Metropolitana,Lo Barnechea,José Alcalde delano 10492,-3.335.645,-7.053.946,44,Conector Tipo 2,AC,22
+Mall Los trapenses - 1,Metropolitana,Lo Barnechea,José Alcalde delano 10492,-3.335.645,-7.053.946,44,Conector Tipo 2,AC,22
+CCTA Chilquinta Quilpué - 1,Valparaíso,ex-Quilpue,ALTO EL YUGO, LO OROZCO S/N,-330.878,-7.140.353,22,Conector Tipo 2,AC,22
+Edificio Chilquinta Barón - 1,Valparaíso,Valparaíso,AV. ARGENTINA 1,-3.304.257,-7.160.482,22,Conector Tipo 2,AC,44
+Edificio Chilquinta Barón - 2,Valparaíso,Valparaíso,AV. ARGENTINA 1,-3.304.257,-7.160.482,22,Conector Tipo 2,AC,44
+Edificio Chilquinta Curauma - 1,Valparaíso,Valparaíso,Cerro El Plomo 3819,-3.313.118,-7.156.017,22,Conector Tipo 2,AC,22
+Edificio Chilquinta Curauma - 1,Valparaíso,Valparaíso,Cerro El Plomo 3819,-3.313.118,-7.156.017,22,Conector Tipo 2,AC,22
+Edificio Chilquinta Curauma - 2,Valparaíso,Valparaíso,Cerro El Plomo 3819,-3.313.118,-7.156.017,22,Conector Tipo 2,AC,22
+Edificio Chilquinta Curauma - 2,Valparaíso,Valparaíso,Cerro El Plomo 3819,-3.313.118,-7.156.017,22,Conector Tipo 2,AC,22
+Oficina Chilquinta Los Andes - 1,Valparaíso,Los Andes,SANTA ROSA 457,-3.283.459,-7.059.939,22,Conector Tipo 2,AC,22
+Oficina Chilquinta Quillota - 1,Valparaíso,Quillota,CHACABUCO 344,-3.287.815,-7.124.723,22,Conector Tipo 1,AC,22
+Oficina Chilquinta Quillota - 1,Valparaíso,Quillota,CHACABUCO 344,-3.287.815,-7.124.723,22,Conector Tipo 1,AC,22
+Oficina Chilquinta Quillota - 2,Valparaíso,Quillota,CHACABUCO 344,-3.287.815,-7.124.723,22,Conector Tipo 1,AC,22
+Oficina Chilquinta Quillota - 2,Valparaíso,Quillota,CHACABUCO 344,-3.287.815,-7.124.723,22,Conector Tipo 1,AC,22
+Oficina Chilquinta Quilpué - 1,Valparaíso,ex-Quilpue,Zenteno 721,-330.454,-7.143.807,22,Conector Tipo 2,AC,22
+Oficina Chilquinta San Antonio - 1,Valparaíso,San Antonio,El Molo 2,-3.359.578,-7.161.284,22,Conector Tipo 2,AC,22
+Shell Placilla,Valparaíso,Valparaíso,Ruta 68 km 98. Lado Sur,-3.312.139,-7.156.205,50,Conector Tipo 2,AC,43
+Shell Placilla,Valparaíso,Valparaíso,Ruta 68 km 98. Lado Sur,-3.312.139,-7.156.205,50,CHAdeMO,DC,50
+Shell Placilla,Valparaíso,Valparaíso,Ruta 68 km 98. Lado Sur,-3.312.139,-7.156.205,50,Combinado Tipo 2,DC,50
+Hotel Marriott - 1,Metropolitana,Las Condes,Presidente Kennedy 5741,-3.339.999,-7.057.428,22,Conector Tipo 2,AC,22
+Saba Paseo Bulnes - 1,Metropolitana,Santiago,Paseo bulnes 141,-3.344.743,-706.533,7,Conector Tipo 2,AC,7
+Saba Paseo Bulnes - 1,Metropolitana,Santiago,Paseo bulnes 141,-3.344.743,-706.533,7,Conector Tipo 2,AC,7
+Saba Paseo Bulnes - 1,Metropolitana,Santiago,Paseo bulnes 141,-3.344.743,-706.533,7,Conector Tipo 2,AC,7
+Saba Paseo Bulnes - 2,Metropolitana,Santiago,Paseo bulnes 141,-3.344.743,-706.533,7,Conector Tipo 2,AC,7
+Saba Paseo Bulnes - 2,Metropolitana,Santiago,Paseo bulnes 141,-3.344.743,-706.533,7,Conector Tipo 2,AC,7
+Saba Paseo Bulnes - 2,Metropolitana,Santiago,Paseo bulnes 141,-3.344.743,-706.533,7,Conector Tipo 2,AC,7
+Saba Paseo Bulnes - 3,Metropolitana,Santiago,Paseo bulnes 141,-3.344.743,-706.533,7,Conector Tipo 2,AC,7
+Saba Paseo Bulnes - 3,Metropolitana,Santiago,Paseo bulnes 141,-3.344.743,-706.533,7,Conector Tipo 2,AC,7
+Saba Paseo Bulnes - 3,Metropolitana,Santiago,Paseo bulnes 141,-3.344.743,-706.533,7,Conector Tipo 2,AC,7
+Saba Plaza Mekis - 1,Metropolitana,Santiago,Agustinas 735,-3.344.038,-7.064.727,7,Conector Tipo 2,AC,7
+Saba Plaza Mekis - 2,Metropolitana,Santiago,Agustinas 735,-3.344.038,-7.064.727,7,Conector Tipo 2,AC,7
+Saba Plaza Mekis - 3,Metropolitana,Santiago,Agustinas 735,-3.344.038,-7.064.727,7,Conector Tipo 2,AC,7
+Cargador Av. Calera de tango - 1,Metropolitana,Calera de Tango,Av. Calera de Tango frente 345,-336.302,-7.076.153,44,Conector Tipo 2,AC,22
+Cargador Av. Calera de tango - 1,Metropolitana,Calera de Tango,Av. Calera de Tango frente 345,-336.302,-7.076.153,44,Conector Tipo 2,AC,22
+Cargador Urbano Arturo Prat 234 - 1,Metropolitana,Tiltil,Arturo Prat 234,-3.308.455,-7.092.905,44,Conector Tipo 2,AC,22
+Cargador Urbano Arturo Prat 234 - 1,Metropolitana,Tiltil,Arturo Prat 234,-3.308.455,-7.092.905,44,Conector Tipo 2,AC,22
+Cargador Urbano Cerro Navia Rolando Petersen - 1,Metropolitana,Cerro Navia,Rolando Petersen S/N,-3.341.348,-7.074.713,44,Conector Tipo 2,AC,22
+Cargador Urbano Cerro Navia Rolando Petersen - 1,Metropolitana,Cerro Navia,Rolando Petersen S/N,-3.341.348,-7.074.713,44,Conector Tipo 2,AC,22
+Cargador Urbano Ignacio Carrera Pinto - 1,Metropolitana,Tiltil,Ignacio Carrera Pinto S/N,-3.308.553,-7.092.972,44,Conector Tipo 2,AC,22
+Cargador Urbano Ignacio Carrera Pinto - 1,Metropolitana,Tiltil,Ignacio Carrera Pinto S/N,-3.308.553,-7.092.972,44,Conector Tipo 2,AC,22
+Cargador Urbano Santelices - 1,Metropolitana,Isla de Maipo,SANTELICES 145,-3.375.583,-7.089.779,44,Conector Tipo 2,AC,22
+Cargador Urbano Santelices - 1,Metropolitana,Isla de Maipo,SANTELICES 145,-3.375.583,-7.089.779,44,Conector Tipo 2,AC,22
+COPEC CANTA GALLO - LAS CONDES - 1,Metropolitana,Las Condes,AV. LAS CONDES 12145,-3.337.418,-705.198,43,56,Conector Tipo 2,AC,22
+COPEC CANTA GALLO - LAS CONDES - 1,Metropolitana,Las Condes,AV. LAS CONDES 12145,-3.337.418,-705.198,43,56,Conector Tipo 2,AC,22
+Copec Av. Libertad,Valparaíso,Viña del Mar,Av. Libertad #501,-3.301.732,-7.155.049,50,CHAdeMO,DC,50
+Copec Av. Libertad,Valparaíso,Viña del Mar,Av. Libertad #501,-3.301.732,-7.155.049,50,Combinado Tipo 2,DC,50
+Copec Av. Libertad,Valparaíso,Viña del Mar,Av. Libertad #501,-3.301.732,-7.155.049,50,Conector Tipo 2,AC,43
+COPEC CAMILO HENRIQUEZ - PUENTE ALTO - 1,Metropolitana,Puente Alto,CAMILO HENRIQUEZ 4583,-3.355.784,-7.055.931,43,56,Conector Tipo 2,AC,22
+COPEC CAMILO HENRIQUEZ - PUENTE ALTO - 1,Metropolitana,Puente Alto,CAMILO HENRIQUEZ 4583,-3.355.784,-7.055.931,43,56,Conector Tipo 2,AC,22
+COPEC CHAMISERO - COLINA - 1,Metropolitana,Colina,AV. CHAMISERO 10410,-3.330.688,-7.066.335,43,56,Conector Tipo 2,AC,22
+COPEC CHAMISERO - COLINA - 1,Metropolitana,Colina,AV. CHAMISERO 10410,-3.330.688,-7.066.335,43,56,Conector Tipo 2,AC,22
+COPEC Chillán - 1,Ñuble,Chillan Viejo,Ruta 5 Km 409,4 Ruta 5 Poniente S/N,-3.663.346,-7.219.409,72,Conector Tipo 2,AC,43
+COPEC Chillán - 1,Ñuble,Chillan Viejo,Ruta 5 Km 409,4 Ruta 5 Poniente S/N,-3.663.346,-7.219.409,72,Combinado Tipo 2,DC,50
+COPEC Chillán - 1,Ñuble,Chillan Viejo,Ruta 5 Km 409,4 Ruta 5 Poniente S/N,-3.663.346,-7.219.409,72,CHAdeMO,DC,50
+COPEC Chimbarongo - 1,Libertador Bernardo OHiggins,Chimbarongo,PANAMERICANA SUR KM 157,-347.348,-7.103.964,72,CHAdeMO,DC,50
+COPEC Chimbarongo - 1,Libertador Bernardo OHiggins,Chimbarongo,PANAMERICANA SUR KM 157,-347.348,-7.103.964,72,Combinado Tipo 2,DC,50
+COPEC Chimbarongo - 1,Libertador Bernardo OHiggins,Chimbarongo,PANAMERICANA SUR KM 157,-347.348,-7.103.964,72,Conector Tipo 2,AC,43
+COPEC Colina - 1,Metropolitana,Colina,Ruta 5 norte KM 27.5 S/N,-3.321.605,-7.076.698,72,Conector Tipo 2,AC,43
+COPEC Colina - 1,Metropolitana,Colina,Ruta 5 norte KM 27.5 S/N,-3.321.605,-7.076.698,72,Combinado Tipo 2,DC,50
+COPEC Colina - 1,Metropolitana,Colina,Ruta 5 norte KM 27.5 S/N,-3.321.605,-7.076.698,72,CHAdeMO,DC,50
+COPEC Concepción Prat - 1,Biobío,Concepción,Avenida Arturo Prat 289,-3.683.281,-7.305.743,50,Conector Tipo 2,AC,43
+COPEC Concepción Prat - 1,Biobío,Concepción,Avenida Arturo Prat 289,-3.683.281,-7.305.743,50,CHAdeMO,DC,50
+COPEC Concepción Prat - 1,Biobío,Concepción,Avenida Arturo Prat 289,-3.683.281,-7.305.743,50,Combinado Tipo 2,DC,50
+COPEC Costanera Antofagasta - 1,Antofagasta,Antofagasta,EDMUNDO PEREZ ZUJOVIC 10675,-2.356.551,-7.039.861,72,CHAdeMO,DC,50
+COPEC Costanera Antofagasta - 1,Antofagasta,Antofagasta,EDMUNDO PEREZ ZUJOVIC 10675,-2.356.551,-7.039.861,72,Conector Tipo 2,AC,43
+COPEC Costanera Antofagasta - 1,Antofagasta,Antofagasta,EDMUNDO PEREZ ZUJOVIC 10675,-2.356.551,-7.039.861,72,Combinado Tipo 2,DC,50
+COPEC Costanera Norte E0 - 1,Metropolitana,Vitacura,Costanera Norte Km 2,5 E-0 S/N,-3.337.513,-7.053.187,175,Combinado Tipo 2,DC,175
+COPEC Costanera Norte E0 - 1,Metropolitana,Vitacura,Costanera Norte Km 2,5 E-0 S/N,-3.337.513,-7.053.187,175,CHAdeMO,DC,50
+Copec Costanera Norte, Pudahuel,Metropolitana,Pudahuel,Costanera Norte km 34,-3.343.393,-7.081.048,50,CHAdeMO,DC,50
+Copec Costanera Norte, Pudahuel,Metropolitana,Pudahuel,Costanera Norte km 34,-3.343.393,-7.081.048,50,Combinado Tipo 2,DC,50
+Copec Costanera Norte, Pudahuel,Metropolitana,Pudahuel,Costanera Norte km 34,-3.343.393,-7.081.048,50,Conector Tipo 2,AC,43
+Copec Costanera Norte, Vitacura,Metropolitana,Vitacura,Costanera Norte km 8 (dirección oriente),-333.821,-7.059.316,50,CHAdeMO,DC,50
+Copec Costanera Norte, Vitacura,Metropolitana,Vitacura,Costanera Norte km 8 (dirección oriente),-333.821,-7.059.316,50,Combinado Tipo 2,DC,50
+Copec Costanera Norte, Vitacura,Metropolitana,Vitacura,Costanera Norte km 8 (dirección oriente),-333.821,-7.059.316,50,Conector Tipo 2,AC,43
+COPEC Hijuelas - 1,Valparaíso,Hijuelas,Panamericana Norte KM 10 S/N,-3.282.762,-7.113.017,72,Combinado Tipo 2,DC,50
+COPEC Hijuelas - 1,Valparaíso,Hijuelas,Panamericana Norte KM 10 S/N,-3.282.762,-7.113.017,72,Conector Tipo 2,AC,43
+COPEC Hijuelas - 1,Valparaíso,Hijuelas,Panamericana Norte KM 10 S/N,-3.282.762,-7.113.017,72,CHAdeMO,DC,50
+COPEC Llay Llay - 1,Valparaíso,Llaillay,Panamericana Norte Km 83 Ruta 5 Poniente S/N,-3.284.235,-7.100.309,72,CHAdeMO,DC,50
+COPEC Llay Llay - 1,Valparaíso,Llaillay,Panamericana Norte Km 83 Ruta 5 Poniente S/N,-3.284.235,-7.100.309,72,Combinado Tipo 2,DC,50
+COPEC Llay Llay - 1,Valparaíso,Llaillay,Panamericana Norte Km 83 Ruta 5 Poniente S/N,-3.284.235,-7.100.309,72,Conector Tipo 2,AC,43
+COPEC Los Angeles Ruta 5 km 518,5 - lado poniente - 1,Biobío,Los Ángeles,RUTA 5 SUR KM 518.5 S/N,-3.754.693,-7.230.943,94,58,CHAdeMO,DC,50
+COPEC Los Angeles Ruta 5 km 518,5 - lado poniente - 1,Biobío,Los Ángeles,RUTA 5 SUR KM 518.5 S/N,-3.754.693,-7.230.943,94,58,Conector Tipo 2,AC,43
+COPEC Los Angeles Ruta 5 km 518,5 - lado poniente - 1,Biobío,Los Ángeles,RUTA 5 SUR KM 518.5 S/N,-3.754.693,-7.230.943,94,58,Combinado Tipo 2,DC,50
+COPEC Los Vilos, km 225 - 1,Coquimbo,Los Vilos,RUTA 5 NORTE S/N,-3.188.886,-7.149.199,94,58,Combinado Tipo 2,DC,50
+COPEC Los Vilos, km 225 - 1,Coquimbo,Los Vilos,RUTA 5 NORTE S/N,-3.188.886,-7.149.199,94,58,CHAdeMO,DC,50
+COPEC Los Vilos, km 225 - 1,Coquimbo,Los Vilos,RUTA 5 NORTE S/N,-3.188.886,-7.149.199,94,58,Conector Tipo 2,AC,43
+COPEC Marbella - 1,Valparaíso,Puchuncaví,Ruta F30E Lote CC4 S/N,-3.267.145,-7.142.591,72,Combinado Tipo 2,DC,50
+COPEC Marbella - 1,Valparaíso,Puchuncaví,Ruta F30E Lote CC4 S/N,-3.267.145,-7.142.591,72,Conector Tipo 2,AC,43
+COPEC Marbella - 1,Valparaíso,Puchuncaví,Ruta F30E Lote CC4 S/N,-3.267.145,-7.142.591,72,CHAdeMO,DC,50
+COPEC Maule - 1,Maule,Maule,PANAMERICANA SUR KM 265 S/N,-35.532,-7.168.785,72,Conector Tipo 2,AC,43
+COPEC Maule - 1,Maule,Maule,PANAMERICANA SUR KM 265 S/N,-35.532,-7.168.785,72,Combinado Tipo 2,DC,50
+COPEC Maule - 1,Maule,Maule,PANAMERICANA SUR KM 265 S/N,-35.532,-7.168.785,72,CHAdeMO,DC,50
+COPEC Mostazal Oriente - 1,Libertador Bernardo OHiggins,Mostazal,PANAMERICANA SUR KM 67.1 KM 237.6,-3.401.669,-7.070.271,72,Conector Tipo 2,AC,43
+COPEC Mostazal Oriente - 1,Libertador Bernardo OHiggins,Mostazal,PANAMERICANA SUR KM 67.1 KM 237.6,-3.401.669,-7.070.271,72,Combinado Tipo 2,DC,50
+COPEC Mostazal Oriente - 1,Libertador Bernardo OHiggins,Mostazal,PANAMERICANA SUR KM 67.1 KM 237.6,-3.401.669,-7.070.271,72,CHAdeMO,DC,50
+COPEC Mostazal Poniente - 1,Libertador Bernardo OHiggins,Mostazal,Panamericana Sur Km 66.7 Ruta 5 Poniente S/N,-3.401.158,-7.070.408,72,Conector Tipo 2,AC,43
+COPEC Mostazal Poniente - 1,Libertador Bernardo OHiggins,Mostazal,Panamericana Sur Km 66.7 Ruta 5 Poniente S/N,-3.401.158,-7.070.408,72,CHAdeMO,DC,50
+COPEC Mostazal Poniente - 1,Libertador Bernardo OHiggins,Mostazal,Panamericana Sur Km 66.7 Ruta 5 Poniente S/N,-3.401.158,-7.070.408,72,Combinado Tipo 2,DC,50
+COPEC Parcela 20 Las Vegas de La Serena - 1,Coquimbo,La Serena,PARCELA 20 VEGAS SUR S/N,-2.994.162,-7.128.037,94,58,Combinado Tipo 2,DC,50
+COPEC Parcela 20 Las Vegas de La Serena - 1,Coquimbo,La Serena,PARCELA 20 VEGAS SUR S/N,-2.994.162,-7.128.037,94,58,CHAdeMO,DC,50
+COPEC Parcela 20 Las Vegas de La Serena - 1,Coquimbo,La Serena,PARCELA 20 VEGAS SUR S/N,-2.994.162,-7.128.037,94,58,Conector Tipo 2,AC,43
+COPEC Parral - 1,Maule,Parral,Panamericana Sur 339 S/N,-3.613.353,-7.180.768,72,CHAdeMO,DC,50
+COPEC Parral - 1,Maule,Parral,Panamericana Sur 339 S/N,-3.613.353,-7.180.768,72,Combinado Tipo 2,DC,50
+COPEC Parral - 1,Maule,Parral,Panamericana Sur 339 S/N,-3.613.353,-7.180.768,72,Conector Tipo 2,AC,43
+COPEC PEDRO FONTOVA - HUECHURABA - 1,Metropolitana,Huechuraba,AV. PEDRO FONTOVA 6789,-3.336.017,-7.066.956,43,56,Conector Tipo 2,AC,22
+COPEC PEDRO FONTOVA - HUECHURABA - 1,Metropolitana,Huechuraba,AV. PEDRO FONTOVA 6789,-3.336.017,-7.066.956,43,56,Conector Tipo 2,AC,22
+COPEC Placilla - 1,Valparaíso,Valparaíso,Placilla KM 105 S/N,-3.312.796,-7.156.282,72,CHAdeMO,DC,50
+COPEC Placilla - 1,Valparaíso,Valparaíso,Placilla KM 105 S/N,-3.312.796,-7.156.282,72,Combinado Tipo 2,DC,50
+COPEC Placilla - 1,Valparaíso,Valparaíso,Placilla KM 105 S/N,-3.312.796,-7.156.282,72,Conector Tipo 2,AC,43
+COPEC Ruta 5 Norte km 370 -Socos, Ovalle - 1,Coquimbo,Ovalle,RUTA 5 NORTE km 370,-3.071.884,-7.149.479,94,58,Combinado Tipo 2,DC,50
+COPEC Ruta 5 Norte km 370 -Socos, Ovalle - 1,Coquimbo,Ovalle,RUTA 5 NORTE km 370,-3.071.884,-7.149.479,94,58,CHAdeMO,DC,50
+COPEC Ruta 5 Norte km 370 -Socos, Ovalle - 1,Coquimbo,Ovalle,RUTA 5 NORTE km 370,-3.071.884,-7.149.479,94,58,Conector Tipo 2,AC,43
+COPEC Ruta 5 Norte km 205. Palo Colorado Oriente - 1,Coquimbo,Los Vilos,RUTA 5 NORTE ORIENTE km 205,-3.207.951,-7.151.586,94,58,Combinado Tipo 2,DC,50
+COPEC Ruta 5 Norte km 205. Palo Colorado Oriente - 1,Coquimbo,Los Vilos,RUTA 5 NORTE ORIENTE km 205,-3.207.951,-7.151.586,94,58,Conector Tipo 2,AC,43
+COPEC Ruta 5 Norte km 205. Palo Colorado Oriente - 1,Coquimbo,Los Vilos,RUTA 5 NORTE ORIENTE km 205,-3.207.951,-7.151.586,94,58,CHAdeMO,DC,50
+Copec ruta 5 Norte km 205. Palo Colorado Poniente - 1,Coquimbo,Los Vilos,RUTA 5 NORTE PONIENTE KM 205 S/N,-3.207.854,-7.151.752,94,58,Conector Tipo 2,AC,43
+Copec ruta 5 Norte km 205. Palo Colorado Poniente - 1,Coquimbo,Los Vilos,RUTA 5 NORTE PONIENTE KM 205 S/N,-3.207.854,-7.151.752,94,58,CHAdeMO,DC,50
+Copec ruta 5 Norte km 205. Palo Colorado Poniente - 1,Coquimbo,Los Vilos,RUTA 5 NORTE PONIENTE KM 205 S/N,-3.207.854,-7.151.752,94,58,Combinado Tipo 2,DC,50
+COPEC Ruta 5 Sur km 484. Los Alamos - 1,Biobío,Los Alamos,RUTA 5 SUR KM 484 S/N,-3.728.321,-7.235.431,94,58,CHAdeMO,DC,50
+COPEC Ruta 5 Sur km 484. Los Alamos - 1,Biobío,Los Alamos,RUTA 5 SUR KM 484 S/N,-3.728.321,-7.235.431,94,58,Conector Tipo 2,AC,43
+COPEC Ruta 5 Sur km 484. Los Alamos - 1,Biobío,Los Alamos,RUTA 5 SUR KM 484 S/N,-3.728.321,-7.235.431,94,58,Combinado Tipo 2,DC,43
+Copec Ruta 5 Sur km 614,5. Victoria - 1,La Araucanía,Victoria,RUTA 5 SUR KM 614.4 S/N,-3.827.936,-7.236.559,94,58,Conector Tipo 2,AC,43
+Copec Ruta 5 Sur km 614,5. Victoria - 1,La Araucanía,Victoria,RUTA 5 SUR KM 614.4 S/N,-3.827.936,-7.236.559,94,58,CHAdeMO,DC,50
+Copec Ruta 5 Sur km 614,5. Victoria - 1,La Araucanía,Victoria,RUTA 5 SUR KM 614.4 S/N,-3.827.936,-7.236.559,94,58,Combinado Tipo 2,DC,43
+COPEC Ruta 78- Lado Norte - 1,Metropolitana,Talagante,AUTOPISTA DEL SOL NORTE RUTA 78 NORTE KM 31 1/2,-3.363.276,-7.086.888,72,CHAdeMO,DC,50
+COPEC Ruta 78- Lado Norte - 1,Metropolitana,Talagante,AUTOPISTA DEL SOL NORTE RUTA 78 NORTE KM 31 1/2,-3.363.276,-7.086.888,72,Conector Tipo 2,AC,43
+COPEC Ruta 78- Lado Norte - 1,Metropolitana,Talagante,AUTOPISTA DEL SOL NORTE RUTA 78 NORTE KM 31 1/2,-3.363.276,-7.086.888,72,Combinado Tipo 2,DC,50
+COPEC Ruta 78- Lado Sur - 1,Metropolitana,Talagante,AUTOPISTA DEL SOL RUTA 78 SUR KM 31 1/2,-3.363.436,-7.086.855,72,CHAdeMO,DC,50
+COPEC Ruta 78- Lado Sur - 1,Metropolitana,Talagante,AUTOPISTA DEL SOL RUTA 78 SUR KM 31 1/2,-3.363.436,-7.086.855,72,Combinado Tipo 2,DC,50
+COPEC Ruta 78- Lado Sur - 1,Metropolitana,Talagante,AUTOPISTA DEL SOL RUTA 78 SUR KM 31 1/2,-3.363.436,-7.086.855,72,Conector Tipo 2,AC,43
+COPEC San Carlos - 1,Ñuble,San Carlos,Ruta 5 Sur KM 380 Ruta 5 Oriente San Carlos S/N,-3.647.158,-7.200.754,72,CHAdeMO,DC,50
+COPEC San Carlos - 1,Ñuble,San Carlos,Ruta 5 Sur KM 380 Ruta 5 Oriente San Carlos S/N,-3.647.158,-7.200.754,72,Combinado Tipo 2,DC,50
+COPEC San Carlos - 1,Ñuble,San Carlos,Ruta 5 Sur KM 380 Ruta 5 Oriente San Carlos S/N,-3.647.158,-7.200.754,72,Conector Tipo 2,AC,43
+COPEC SAN EUGENIO - ÑUÑOA - 1,Metropolitana,Nunoa,SAN EUGENIO 1602,-3.346.699,-7.062.305,21,78,Conector Tipo 2,AC,11
+COPEC SAN EUGENIO - ÑUÑOA - 1,Metropolitana,Nunoa,SAN EUGENIO 1602,-3.346.699,-7.062.305,21,78,Conector Tipo 2,AC,11
+COPEC San Fernando - 1,Libertador Bernardo OHiggins,San Fernando,RUTA 5 SUR KM 127 KM 127,-3.450.869,-7.092.284,72,CHAdeMO,DC,50
+COPEC San Fernando - 1,Libertador Bernardo OHiggins,San Fernando,RUTA 5 SUR KM 127 KM 127,-3.450.869,-7.092.284,72,Combinado Tipo 2,DC,50
+COPEC San Fernando - 1,Libertador Bernardo OHiggins,San Fernando,RUTA 5 SUR KM 127 KM 127,-3.450.869,-7.092.284,72,Conector Tipo 2,AC,43
+COPEC San Javier - 1,Maule,San Javier,Longitudinal Sur Km 275,3 S/N,-3.561.632,-7.170.185,72,CHAdeMO,DC,50
+COPEC San Javier - 1,Maule,San Javier,Longitudinal Sur Km 275,3 S/N,-3.561.632,-7.170.185,72,Conector Tipo 2,AC,43
+COPEC San Javier - 1,Maule,San Javier,Longitudinal Sur Km 275,3 S/N,-3.561.632,-7.170.185,72,Combinado Tipo 2,DC,50
+COPEC San Rafael - 1,Maule,San Rafael,Ruta 5 Sur KM 237 Ruta 5 Oriente S/N,-3.532.066,-7.153.936,72,Conector Tipo 2,AC,43
+COPEC San Rafael - 1,Maule,San Rafael,Ruta 5 Sur KM 237 Ruta 5 Oriente S/N,-3.532.066,-7.153.936,72,CHAdeMO,DC,50
+COPEC San Rafael - 1,Maule,San Rafael,Ruta 5 Sur KM 237 Ruta 5 Oriente S/N,-3.532.066,-7.153.936,72,Combinado Tipo 2,DC,50
+COPEC SAN RAMON - LAS CONDES - 1,Metropolitana,Las Condes,SAN RAMON 2701,-3.340.754,-7.051.114,21,78,Conector Tipo 2,AC,11
+COPEC SAN RAMON - LAS CONDES - 1,Metropolitana,Las Condes,SAN RAMON 2701,-3.340.754,-7.051.114,21,78,Conector Tipo 2,AC,11
+COPEC Santo Domingo - 1,Valparaíso,Santo Domingo,Teniente Cruz Martinez 70,-3.364.615,-716.246,72,CHAdeMO,DC,50
+COPEC Santo Domingo - 1,Valparaíso,Santo Domingo,Teniente Cruz Martinez 70,-3.364.615,-716.246,72,Combinado Tipo 2,DC,50
+COPEC Santo Domingo - 1,Valparaíso,Santo Domingo,Teniente Cruz Martinez 70,-3.364.615,-716.246,72,Conector Tipo 2,AC,43
+Copec Temuco - 1,La Araucanía,Temuco,AV. ALEMANIA 83,-3.873.616,-7.260.273,94,58,CHAdeMO,DC,50
+Copec Temuco - 1,La Araucanía,Temuco,AV. ALEMANIA 83,-3.873.616,-7.260.273,94,58,Conector Tipo 2,AC,43
+Copec Temuco - 1,La Araucanía,Temuco,AV. ALEMANIA 83,-3.873.616,-7.260.273,94,58,Combinado Tipo 2,DC,43
+ESTACION DE SERVICIOS COPEC COQUIMBO SALIDA SUR - 1,Coquimbo,Coquimbo,RUTA 5 NORTE PONIENTE KM 455 S/N,-3.001.266,-713.784,94,58,CHAdeMO,DC,50
+ESTACION DE SERVICIOS COPEC COQUIMBO SALIDA SUR - 1,Coquimbo,Coquimbo,RUTA 5 NORTE PONIENTE KM 455 S/N,-3.001.266,-713.784,94,58,Conector Tipo 2,AC,43
+ESTACION DE SERVICIOS COPEC COQUIMBO SALIDA SUR - 1,Coquimbo,Coquimbo,RUTA 5 NORTE PONIENTE KM 455 S/N,-3.001.266,-713.784,94,58,Combinado Tipo 2,DC,43
+ESTACION DE SERVICIOS COPEC LAUTARO - 1,La Araucanía,Lautaro,RUTA 5 SUR KM 645 S/N,-3.854.944,-7.245.759,94,58,CHAdeMO,DC,50
+ESTACION DE SERVICIOS COPEC LAUTARO - 1,La Araucanía,Lautaro,RUTA 5 SUR KM 645 S/N,-3.854.944,-7.245.759,94,58,Conector Tipo 2,AC,43
+ESTACION DE SERVICIOS COPEC LAUTARO - 1,La Araucanía,Lautaro,RUTA 5 SUR KM 645 S/N,-3.854.944,-7.245.759,94,58,Combinado Tipo 2,DC,43
+Estacionamiento Unimarc -La Reina - 1,Metropolitana,La Reina,Av. Principe de Gales con Aguas Claras S/N,-3.343.937,-7.055.639,22,Conector Tipo 2,AC,7,4
+Estacionamiento Unimarc -La Reina - 1,Metropolitana,La Reina,Av. Principe de Gales con Aguas Claras S/N,-3.343.937,-7.055.639,22,Conector Tipo 2,AC,7,4
+Plaza Carlos Ossandón - 1,Metropolitana,La Reina,AV. ECHENIQUE CON CARLOS OSSANDON S/N,-3.344.196,-7.054.344,22,Conector Tipo 2,AC,7,4
+Plaza Carlos Ossandón - 1,Metropolitana,La Reina,AV. ECHENIQUE CON CARLOS OSSANDON S/N,-3.344.196,-7.054.344,22,Conector Tipo 2,AC,7,4
+Plaza Felix Margoz-Cerrillo - 1,Metropolitana,Cerrillos,AV. PEDRO AGUIRRE CERDA CON FELIX MARGOZ S/N,-3.349.439,-7.070.549,22,Conector Tipo 2,AC,7,4
+Plaza Felix Margoz-Cerrillo - 1,Metropolitana,Cerrillos,AV. PEDRO AGUIRRE CERDA CON FELIX MARGOZ S/N,-3.349.439,-7.070.549,22,Conector Tipo 2,AC,7,4
+"Ambrosio O""Higgins - 1",Metropolitana,Curacaví,"Ambrosio O""Higgins frente a 1305",-3.340.542,-711.368,43,56,Conector Tipo 2,AC,21,78
+"Ambrosio O""Higgins - 1",Metropolitana,Curacaví,"Ambrosio O""Higgins frente a 1305",-3.340.542,-711.368,43,56,Conector Tipo 2,AC,21,78
+Av. Los Pajaritos - 1,Metropolitana,Maipú,Avda. Los Pajaritos S/N 000,-3.349.224,-7.075.532,43,56,Conector Tipo 2,AC,21,78
+Av. Los Pajaritos - 1,Metropolitana,Maipú,Avda. Los Pajaritos S/N 000,-3.349.224,-7.075.532,43,56,Conector Tipo 2,AC,21,78
+Av. Quilin - 1,Metropolitana,Macul,Av. Quilin frente al 3250,-3.348.513,-7.059.783,43,56,Conector Tipo 2,AC,21,78
+Av. Quilin - 1,Metropolitana,Macul,Av. Quilin frente al 3250,-3.348.513,-7.059.783,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Alhue - 1,Metropolitana,Alhué,Esmeralda frente al 198,-3.403.143,-7.110.103,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Alhue - 1,Metropolitana,Alhué,Esmeralda frente al 198,-3.403.143,-7.110.103,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Avenida Costanera Ferrea - 1,Metropolitana,Quilicura,Avenida Costanera Férrea frente al 0495,-3.335.561,-7.071.316,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Avenida Costanera Ferrea - 1,Metropolitana,Quilicura,Avenida Costanera Férrea frente al 0495,-3.335.561,-7.071.316,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Aviador - 1,Metropolitana,Quinta Normal,Aviador Bleriot frente a 2215,-3.342.286,-7.069.296,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Aviador - 1,Metropolitana,Quinta Normal,Aviador Bleriot frente a 2215,-3.342.286,-7.069.296,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Calle San Ignacio - 1,Metropolitana,Quilicura,San Ignacio frente al 951,-3.333.225,-7.070.984,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Calle San Ignacio - 1,Metropolitana,Quilicura,San Ignacio frente al 951,-3.333.225,-7.070.984,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico General Korner - 1,Metropolitana,El Bosque,General Korner frente a 286,-3.355.054,-7.067.642,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico General Korner - 1,Metropolitana,El Bosque,General Korner frente a 286,-3.355.054,-7.067.642,43,56,Conector Tipo 2,AC,21,78
+Cargador Electrico Javiera - 1,Metropolitana,El Bosque,Javiera Carrera al oriente del 910,-3.355.718,-706.648,43,56,Conector Tipo 2,AC,21,78
+Cargador Electrico Javiera - 1,Metropolitana,El Bosque,Javiera Carrera al oriente del 910,-3.355.718,-706.648,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Plaza Juan Renz - 1,Metropolitana,Macul,Poeta Augusto Winter frente 3941,-3.349.003,-7.059.367,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Plaza Juan Renz - 1,Metropolitana,Macul,Poeta Augusto Winter frente 3941,-3.349.003,-7.059.367,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Plaza Recsa - 1,Metropolitana,Quilicura,Pasaje Dallas frente a 266,-3.336.854,-7.072.389,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Plaza Recsa - 1,Metropolitana,Quilicura,Pasaje Dallas frente a 266,-3.336.854,-7.072.389,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Radal - 1,Metropolitana,Quinta Normal,Radal frente a 1693,-334.275,-7.070.347,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico Radal - 1,Metropolitana,Quinta Normal,Radal frente a 1693,-334.275,-7.070.347,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico San Jose de Maipo - 1,Metropolitana,San José de Maipo,Uno Sur frente a 0151,-3.364.081,-7.035.401,43,56,Conector Tipo 2,AC,21,78
+Cargador Eléctrico San Jose de Maipo - 1,Metropolitana,San José de Maipo,Uno Sur frente a 0151,-3.364.081,-7.035.401,43,56,Conector Tipo 2,AC,21,78
+Lampa - 1,Metropolitana,Lampa,Ignacio Carrera Pinto frente 1066,-3.328.663,-7.087.213,43,56,Conector Tipo 2,AC,21,78
+Lampa - 1,Metropolitana,Lampa,Ignacio Carrera Pinto frente 1066,-3.328.663,-7.087.213,43,56,Conector Tipo 2,AC,21,78
+Los Platanos - 1,Metropolitana,Macul,Los Platanos frente a 3130,-3.348.225,-705.995,43,56,Conector Tipo 2,AC,21,78
+Los Platanos - 1,Metropolitana,Macul,Los Platanos frente a 3130,-3.348.225,-705.995,43,56,Conector Tipo 2,AC,21,78
+Maria Pinto - 1,Metropolitana,María Pinto,Av. Francisco Costabal frente 78,-3.351.715,-7.112.376,43,56,Conector Tipo 2,AC,21,78
+Maria Pinto - 1,Metropolitana,María Pinto,Av. Francisco Costabal frente 78,-3.351.715,-7.112.376,43,56,Conector Tipo 2,AC,21,78
+Paine - 1,Metropolitana,Paine,Avenida Baquedano frente 348,-338.072,-7.074.227,43,56,Conector Tipo 2,AC,21,78
+Paine - 1,Metropolitana,Paine,Avenida Baquedano frente 348,-338.072,-7.074.227,43,56,Conector Tipo 2,AC,21,78
+Primera Transversal - 1,Metropolitana,Maipú,Primera Transversal frente 1970,-3.350.926,-7.075.314,43,56,Conector Tipo 2,AC,21,78
+Primera Transversal - 1,Metropolitana,Maipú,Primera Transversal frente 1970,-3.350.926,-7.075.314,43,56,Conector Tipo 2,AC,21,78
+San Pedro - 1,Metropolitana,San Pedro,Avenida San Pedro frente a 46,-3.389.734,-7.145.391,43,56,Conector Tipo 2,AC,21,78
+San Pedro - 1,Metropolitana,San Pedro,Avenida San Pedro frente a 46,-3.389.734,-7.145.391,43,56,Conector Tipo 2,AC,21,78
+Williams Rebolledo - 1,Metropolitana,Curacaví,Williams Rebolledo frente al 1841,-3.340.189,-7.112.889,43,56,Conector Tipo 2,AC,21,78
+Williams Rebolledo - 1,Metropolitana,Curacaví,Williams Rebolledo frente al 1841,-3.340.189,-7.112.889,43,56,Conector Tipo 2,AC,21,78
+Duoc UC Huechuraba - 1,Metropolitana,Huechuraba,Calle Nueva 1660,-3.336.243,-706.777,22,Conector Tipo 2,AC,22
+DUOC-UC. San Joaquín - 1,Metropolitana,San Joaquín,Vicu¿a Mackenna 4917,-3.350.026,-7.061.647,22,Conector Tipo 2,AC,22
+DUOC-UC. San Joaquín - 1,Metropolitana,San Joaquín,Vicu¿a Mackenna 4917,-3.350.026,-7.061.647,22,Conector Tipo 2,AC,22
+Smarcity, Ciudad Empresarial - 1,Metropolitana,Huechuraba,Del Parque 4980,-333.889,-7.061.664,22,Conector Tipo 2,AC,22
+Cargador Vehicular Hotel Intercontinental - 1,Metropolitana,Las Condes,Avenida Vitacura 2885,-3.341.251,-7.060.296,7,7,Conector Tipo 1,AC,7,7
+Cargador Vehicular Hotel Intercontinental - 2,Metropolitana,Las Condes,Avenida Vitacura 2885,-3.341.251,-7.060.296,22,Conector Tipo 2,AC,22
+Cargadores Vehiculares Hotel San Francisco - 1,Metropolitana,Santiago,Avenida Libertador Bernardo Ohiggins 816,-3.344.379,-7.064.849,7,7,Conector Tipo 1,AC,7,7
+Cargadores Vehiculares Hotel San Francisco - 2,Metropolitana,Santiago,Avenida Libertador Bernardo Ohiggins 816,-3.344.379,-7.064.849,22,Conector Tipo 2,AC,22
+Chillán Centro - 1,Ñuble,Chillan,Arauco 878,-3.661.084,-7.210.415,44,Conector Tipo 2,AC,22
+Chillán Centro - 1,Ñuble,Chillan,Arauco 878,-3.661.084,-7.210.415,44,Conector Tipo 2,AC,22
+Colo Colo N° 410 - 1,La Araucanía,Villarrica,Pedro de Valdivia Esq. Colo Colo 410,-392.872,-7.222.139,44,Conector Tipo 2,AC,22
+Colo Colo N° 410 - 1,La Araucanía,Villarrica,Pedro de Valdivia Esq. Colo Colo 410,-392.872,-7.222.139,44,Conector Tipo 2,AC,22
+Costanera Center - 1,Metropolitana,Providencia,Andr¿s Bello 2461,-334.203,-7.061.128,14,Conector Tipo 1,AC,7
+Costanera Center - 1,Metropolitana,Providencia,Andr¿s Bello 2461,-334.203,-7.061.128,14,Conector Tipo 2,AC,7
+Edificio Enel - 1,Metropolitana,Santiago,San Isiidro 85,-3.344.436,-7.064.454,98,Conector Tipo 2,AC,43
+Edificio Enel - 1,Metropolitana,Santiago,San Isiidro 85,-3.344.436,-7.064.454,98,CHAdeMO,DC,50
+Edificio Enel - 1,Metropolitana,Santiago,San Isiidro 85,-3.344.436,-7.064.454,98,Combinado Tipo 2,DC,50
+Electrolinera-39 - 1,Metropolitana,Las Condes,Avenida Presidente Riesco s/n,-3.340.137,-7.056.781,45,Conector Tipo 2,AC,22
+Electrolinera-39 - 1,Metropolitana,Las Condes,Avenida Presidente Riesco s/n,-3.340.137,-7.056.781,45,Conector Tipo 2,AC,22
+Electrolinera-40 - 1,Metropolitana,Las Condes,Cerro Colorado s/n,-3.340.423,-70,58,45,Conector Tipo 2,AC,22
+Electrolinera-40 - 1,Metropolitana,Las Condes,Cerro Colorado s/n,-3.340.423,-70,58,45,Conector Tipo 2,AC,22
+Enel X - Hotel NH Plaza Santiago - 1,Metropolitana,Las Condes,Avenida Vitacura 2610,-3.341.649,-7.060.496,7,4,Conector Tipo 2,AC,7,4
+Enel X - Hotel NH Plaza Santiago - 2,Metropolitana,Las Condes,Avenida Vitacura 2610,-3.341.649,-7.060.496,7,4,Conector Tipo 2,AC,7,4
+Enel X - Sodimac La Reina - 1,Metropolitana,La Reina,av. Jorge Alessandri 1347,-3.346.254,-7.054.487,22,Conector Tipo 2,AC,22
+Enel X - Sodimac La Reina - 1,Metropolitana,La Reina,av. Jorge Alessandri 1347,-3.346.254,-7.054.487,22,Conector Tipo 2,AC,22
+Enel X - Zona de descanso Itahue. - 1,Maule,Molina,Ruta 5 Sur KM 211,-3.513.795,-7.136.255,50,Conector Tipo 2,AC,43
+Enel X - Zona de descanso Itahue. - 1,Maule,Molina,Ruta 5 Sur KM 211,-3.513.795,-7.136.255,50,CHAdeMO,DC,50
+Enel X - Zona de descanso Itahue. - 1,Maule,Molina,Ruta 5 Sur KM 211,-3.513.795,-7.136.255,50,Combinado Tipo 2,DC,50
+Enel X - Zona de descanso La Platina - 1,Libertador Bernardo OHiggins,Chimbarongo,Ruta 5 Sur KM 159,-3.477.062,-7.104.345,50,Combinado Tipo 2,DC,50
+Enel X - Zona de descanso La Platina - 1,Libertador Bernardo OHiggins,Chimbarongo,Ruta 5 Sur KM 159,-3.477.062,-7.104.345,50,CHAdeMO,DC,50
+Enel X - Zona de descanso La Platina - 1,Libertador Bernardo OHiggins,Chimbarongo,Ruta 5 Sur KM 159,-3.477.062,-7.104.345,50,Conector Tipo 2,AC,43
+Enel X - Zona de descanso Santa Lucila. - 1,Libertador Bernardo OHiggins,Requínoa,Ruta 5 Sur KM 98,-3.426.589,-7.080.982,50,Conector Tipo 2,AC,43
+Enel X - Zona de descanso Santa Lucila. - 1,Libertador Bernardo OHiggins,Requínoa,Ruta 5 Sur KM 98,-3.426.589,-7.080.982,50,Combinado Tipo 2,DC,50
+Enel X - Zona de descanso Santa Lucila. - 1,Libertador Bernardo OHiggins,Requínoa,Ruta 5 Sur KM 98,-3.426.589,-7.080.982,50,CHAdeMO,DC,50
+Enel X- PETROBRAS, Vitacura con Vespucio,Metropolitana,Vitacura,Av. Américo Vespucio #1665,-3.339.894,-7.058.718,50,CHAdeMO,DC,50
+Enel X- PETROBRAS, Vitacura con Vespucio,Metropolitana,Vitacura,Av. Américo Vespucio #1665,-3.339.894,-7.058.718,50,Combinado Tipo 2,DC,50
+Enel X- PETROBRAS, Vitacura con Vespucio,Metropolitana,Vitacura,Av. Américo Vespucio #1665,-3.339.894,-7.058.718,50,Conector Tipo 2,AC,43
+Enel X-Mac Iver, Santiago Centro,Metropolitana,Santiago,Enrique Mac Iver #424,-334.378,-7.064.747,22,Conector Tipo 2,AC,22
+Enel X-Mall Plaza Los Dominicos,Metropolitana,Las Condes,Av. Padre Hurtado Sur #875, Piso -2,-3.341.512,-705.405,7,Conector Tipo 2,AC,7
+Enel X-Moneda - Teatinos,Metropolitana,Santiago,Moneda #1326, esquina Teatinos,-3.344.228,-706.549,44,Conector Tipo 2,AC,22
+Enel X-Moneda - Teatinos,Metropolitana,Santiago,Moneda #1326, esquina Teatinos,-3.344.228,-706.549,44,Conector Tipo 2,AC,22
+Enel X-Ómnium,Metropolitana,Las Condes,Av. Apoquindo #4900,-3.341.159,-7.057.807,44,Conector Tipo 2,AC,22
+Enel X-Ómnium,Metropolitana,Las Condes,Av. Apoquindo #4900,-3.341.159,-7.057.807,44,Conector Tipo 2,AC,22
+Enel X-Plaza España, Concepción 1,Biobío,Concepción,Barros Arana #13,-3.682.937,-7.305.897,44,Conector Tipo 2,AC,22
+Enel X-Plaza España, Concepción 1,Biobío,Concepción,Barros Arana #13,-3.682.937,-7.305.897,44,Conector Tipo 2,AC,22
+Enel X-Plaza España, Concepción 2,Biobío,Concepción,Barros Arana #13,-3.682.937,-7.305.897,22,Conector Tipo 2,AC,22
+Enel X-Plaza España, Concepción 2,Biobío,Concepción,Barros Arana #13,-3.682.937,-7.305.897,22,Conector Tipo 2,AC,22
+Estación de Servicio Enel X Station - 1,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,22,Conector Tipo 2,AC,22
+Estación de Servicio Enel X Station - 10,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,Combinado Tipo 2,DC,60
+Estación de Servicio Enel X Station - 10,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,CHAdeMO,DC,50
+Estación de Servicio Enel X Station - 11,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,Combinado Tipo 2,DC,60
+Estación de Servicio Enel X Station - 11,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,CHAdeMO,DC,50
+Estación de Servicio Enel X Station - 12,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,Combinado Tipo 2,DC,60
+Estación de Servicio Enel X Station - 12,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,CHAdeMO,DC,50
+Estación de Servicio Enel X Station - 13,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,150,CHAdeMO,DC,50
+Estación de Servicio Enel X Station - 13,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,150,Combinado Tipo 2,DC,150
+Estación de Servicio Enel X Station - 2,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,22,Conector Tipo 2,AC,22
+Estación de Servicio Enel X Station - 3,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,22,Conector Tipo 2,AC,22
+Estación de Servicio Enel X Station - 4,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,150,GB/T-DC,DC,150
+Estación de Servicio Enel X Station - 4,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,150,GB/T-DC,DC,150
+Estación de Servicio Enel X Station - 5,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,Combinado Tipo 2,DC,60
+Estación de Servicio Enel X Station - 5,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,CHAdeMO,DC,50
+Estación de Servicio Enel X Station - 6,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,Combinado Tipo 2,DC,60
+Estación de Servicio Enel X Station - 6,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,CHAdeMO,DC,50
+Estación de Servicio Enel X Station - 7,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,Combinado Tipo 2,DC,60
+Estación de Servicio Enel X Station - 7,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,CHAdeMO,DC,50
+Estación de Servicio Enel X Station - 8,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,Combinado Tipo 2,DC,60
+Estación de Servicio Enel X Station - 8,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,CHAdeMO,DC,50
+Estación de Servicio Enel X Station - 9,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,Combinado Tipo 2,DC,60
+Estación de Servicio Enel X Station - 9,Metropolitana,Pudahuel,Av. Americo Vespucio 1289,-3.342.819,-7.078.205,60,CHAdeMO,DC,50
+La Castellana Esquina Apoquindo - 1,Metropolitana,Las Condes,La Castellana Sur s/n,-3.341.191,-7.057.688,45,Conector Tipo 2,AC,22
+La Castellana Esquina Apoquindo - 1,Metropolitana,Las Condes,La Castellana Sur s/n,-3.341.191,-7.057.688,45,Conector Tipo 2,AC,22
+Mar de los Sargazos con Rosario Sur - 1,Metropolitana,Las Condes,Mar de los Sargazos S/N,-3.341.039,-7.056.998,45,Conector Tipo 2,AC,22
+Mar de los Sargazos con Rosario Sur - 1,Metropolitana,Las Condes,Mar de los Sargazos S/N,-3.341.039,-7.056.998,45,Conector Tipo 2,AC,22
+Municipalidad de Pucón - 1,La Araucanía,Pucón,Palguin Esq. O'Higgins 415,-3.927.614,-7.197.335,44,Conector Tipo 2,AC,22
+Municipalidad de Pucón - 1,La Araucanía,Pucón,Palguin Esq. O'Higgins 415,-3.927.614,-7.197.335,44,Conector Tipo 2,AC,22
+Municipalidad de San Pedro de la Paz - 1,Biobío,San Pedro de la Paz,Los Acacios 43,-3.684.156,-7.310.282,44,Conector Tipo 2,AC,22
+Municipalidad de San Pedro de la Paz - 1,Biobío,San Pedro de la Paz,Los Acacios 43,-3.684.156,-7.310.282,44,Conector Tipo 2,AC,22
+Municipalidad de Vitacura - 1,Metropolitana,Vitacura,Bicentenario 3800,-3.339.938,-7.060.154,14,Conector Tipo 2,AC,7
+Municipalidad de Vitacura - 1,Metropolitana,Vitacura,Bicentenario 3800,-3.339.938,-7.060.154,14,Conector Tipo 2,AC,7
+Municipalidad de Vitacura - 2,Metropolitana,Vitacura,Bicentenario 3800,-3.339.938,-7.060.154,14,Conector Tipo 2,AC,7
+Municipalidad de Vitacura - 2,Metropolitana,Vitacura,Bicentenario 3800,-3.339.938,-7.060.154,14,Conector Tipo 2,AC,7
+Presidente Riesco con Manquehue Norte - 1,Metropolitana,Las Condes,Avenida Presidente Riesco s/n,-3.340.086,-7.056.706,45,Conector Tipo 2,AC,22
+Presidente Riesco con Manquehue Norte - 1,Metropolitana,Las Condes,Avenida Presidente Riesco s/n,-3.340.086,-7.056.706,45,Conector Tipo 2,AC,22
+Presidente Riesco Esquina Asturias - 1,Metropolitana,Las Condes,Avenida Presidente Errazuriz s/n,-3.341.885,-705.837,45,Conector Tipo 2,AC,22
+Presidente Riesco Esquina Asturias - 1,Metropolitana,Las Condes,Avenida Presidente Errazuriz s/n,-3.341.885,-705.837,45,Conector Tipo 2,AC,22
+Proy. Instalación Cargadores Eléct. Hotel Eurotel - 1,Metropolitana,Providencia,Guardia Vieja 285,-334.249,-706.098,22,Conector Tipo 2,AC,22
+Proy. Instalación Cargadores Eléct. Hotel Eurotel - 2,Metropolitana,Providencia,Guardia Vieja 285,-334.249,-706.098,22,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Hotel Pettra - 1,Metropolitana,Lo Barnechea,Comandante Malbec 12851,-3.335.971,-7.051.527,22,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Hotel Pettra - 2,Metropolitana,Lo Barnechea,Comandante Malbec 12851,-3.335.971,-7.051.527,22,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Hotel Regal Pacific - 1,Metropolitana,Las Condes,Avenida Apoquindo 5680,-3.340.941,-7.057.111,22,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Hotel Regal Pacific - 2,Metropolitana,Las Condes,Avenida Apoquindo 5680,-3.340.941,-7.057.111,22,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Hotel Ritz Carlton - 1,Metropolitana,Las Condes,El Alcalde 15,-334.159,-7.059.524,22,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Hotel Ritz Carlton - 2,Metropolitana,Las Condes,El Alcalde 15,-334.159,-7.059.524,22,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Hotel Torre Mayor 25 - 1,Metropolitana,Providencia,Avenida Ricardo Lyon 25,-3.342.198,-7.060.989,22,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Hotel Torre Mayor 25 - 2,Metropolitana,Providencia,Avenida Ricardo Lyon 25,-3.342.198,-7.060.989,22,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Stripcenter Los Trapenses - 1,Metropolitana,Lo Barnechea,Camino Los Trapenses 3515,-3.334.331,-7.054.444,44,Conector Tipo 2,AC,22
+Proyecto Cargadores VE Stripcenter Los Trapenses - 1,Metropolitana,Lo Barnechea,Camino Los Trapenses 3515,-3.334.331,-7.054.444,44,Conector Tipo 2,AC,22
+Proyecto CE Hotel Icon - 1,Metropolitana,Las Condes,Alonso de Córdova 6050,-3.340.788,-7.056.829,22,Conector Tipo 2,AC,22
+Proyecto CE Hotel Icon - 2,Metropolitana,Las Condes,Alonso de Córdova 6050,-3.340.788,-7.056.829,22,Conector Tipo 2,AC,22
+Proyecto CE Hotel Torremayor 322 - 1,Metropolitana,Providencia,Avenida Ricardo Lyon 322,-334.246,-706.085,22,Conector Tipo 2,AC,22
+Proyecto CE Hotel Torremayor 322 - 2,Metropolitana,Providencia,Avenida Ricardo Lyon 322,-334.246,-706.085,22,Conector Tipo 2,AC,22
+Proyecto Inst. Cargadores Elect. Hotel Sheraton - 1,Metropolitana,Providencia,Avenida Santa Maria 1742,-334.219,-7.062.115,22,Conector Tipo 2,AC,22
+Proyecto Inst. Cargadores Elect. Hotel Sheraton - 2,Metropolitana,Providencia,Avenida Santa Maria 1742,-334.219,-7.062.115,22,Conector Tipo 2,AC,22
+SABA Plaza de Armas 1 - 1,Metropolitana,Santiago,21 de Mayo 576,-3.343.628,-7.065.014,7,Conector Tipo 1,AC,7
+SABA Plaza de Armas 1 - 1,Metropolitana,Santiago,21 de Mayo 576,-3.343.628,-7.065.014,7,Conector Tipo 2,AC,7
+SABA Plaza de Armas 1 - 2,Metropolitana,Santiago,21 de Mayo 576,-3.343.628,-7.065.014,7,Conector Tipo 2,AC,7
+SABA Plaza de Armas 1 - 2,Metropolitana,Santiago,21 de Mayo 576,-3.343.628,-7.065.014,7,Conector Tipo 2,AC,7
+Enel X - Sodimac Quilín - 1,Metropolitana,Penalolén,altos del parque sur 5800,-334.987,-7.055.529,22,Conector Tipo 2,AC,11
+Enel X - Sodimac Quilín - 1,Metropolitana,Penalolén,altos del parque sur 5800,-334.987,-7.055.529,22,Conector Tipo 2,AC,11
+Enel X - Sodimac Quilín - 2,Metropolitana,Penalolén,altos del parque sur 5800,-334.987,-7.055.529,22,Conector Tipo 2,AC,11
+Enel X - Sodimac Quilín - 2,Metropolitana,Penalolén,altos del parque sur 5800,-334.987,-7.055.529,22,Conector Tipo 2,AC,11
+Cargador Electrico Shell Los Dominicos - 1,Metropolitana,Las Condes,Patagonia 75,-3.340.918,-7.054.478,50,CHAdeMO,DC,50
+Cargador Electrico Shell Los Dominicos - 1,Metropolitana,Las Condes,Patagonia 75,-3.340.918,-7.054.478,50,Combinado Tipo 2,DC,50
+Cargador Electrico Shell Los Dominicos - 1,Metropolitana,Las Condes,Patagonia 75,-3.340.918,-7.054.478,50,Conector Tipo 2,AC,43
+EDS Shell Parral - 1,Maule,Parral,Ruta 5 sur Km 344,-3.617.881,-7.182.341,98,Conector Tipo 2,AC,43
+EDS Shell Parral - 1,Maule,Parral,Ruta 5 sur Km 344,-3.617.881,-7.182.341,98,CHAdeMO,DC,50
+EDS Shell Parral - 1,Maule,Parral,Ruta 5 sur Km 344,-3.617.881,-7.182.341,98,Combinado Tipo 2,DC,50
+ELECTROLINERA SHELL LOS TRAPENSES - 1,Metropolitana,Lo Barnechea,Camino Los Trapenses 3385,-3.334.485,-7.054.589,50,CHAdeMO,DC,50
+ELECTROLINERA SHELL LOS TRAPENSES - 1,Metropolitana,Lo Barnechea,Camino Los Trapenses 3385,-3.334.485,-7.054.589,50,Combinado Tipo 2,DC,50
+ELECTROLINERA SHELL LOS TRAPENSES - 1,Metropolitana,Lo Barnechea,Camino Los Trapenses 3385,-3.334.485,-7.054.589,50,Conector Tipo 2,AC,43
+ELECTROLINERA SHELL RIO MAIPO PONIENTE - 1,Metropolitana,San Bernardo,Autopista Ruta 5 Sur Kilometro 29 29,-3.368.104,-7.072.634,50,Conector Tipo 2,AC,43
+ELECTROLINERA SHELL RIO MAIPO PONIENTE - 1,Metropolitana,San Bernardo,Autopista Ruta 5 Sur Kilometro 29 29,-3.368.104,-7.072.634,50,CHAdeMO,DC,50
+ELECTROLINERA SHELL RIO MAIPO PONIENTE - 1,Metropolitana,San Bernardo,Autopista Ruta 5 Sur Kilometro 29 29,-3.368.104,-7.072.634,50,Combinado Tipo 2,DC,50
+ELECTROLINERA SHELL SAN FRANCISCO DE MOSTAZAL - 1,Libertador Bernardo OHiggins,Mostazal,PANAMERICANA SUR KM 69,1 N/A,-3.397.138,-7.070.762,67,CHAdeMO,DC,50
+ELECTROLINERA SHELL SAN FRANCISCO DE MOSTAZAL - 1,Libertador Bernardo OHiggins,Mostazal,PANAMERICANA SUR KM 69,1 N/A,-3.397.138,-7.070.762,67,Combinado Tipo 2,DC,50
+ELECTROLINERA SHELL SAN FRANCISCO DE MOSTAZAL - 1,Libertador Bernardo OHiggins,Mostazal,PANAMERICANA SUR KM 69,1 N/A,-3.397.138,-7.070.762,67,Conector Tipo 2,AC,43
+ELECTROLINERA SHELL TENO - 1,Maule,Teno,PANAMERICANA SUR 175,-3.487.642,-7.114.431,50,Conector Tipo 2,AC,43
+ELECTROLINERA SHELL TENO - 1,Maule,Teno,PANAMERICANA SUR 175,-3.487.642,-7.114.431,50,CHAdeMO,DC,50
+ELECTROLINERA SHELL TENO - 1,Maule,Teno,PANAMERICANA SUR 175,-3.487.642,-7.114.431,50,Combinado Tipo 2,DC,50
+ENEX SHELL HIJUELAS - 1,Valparaíso,Hijuelas,panamericana norte km 108,-3.279.829,-7.115.876,50,CHAdeMO,DC,50
+ENEX SHELL HIJUELAS - 1,Valparaíso,Hijuelas,panamericana norte km 108,-3.279.829,-7.115.876,50,Combinado Tipo 2,DC,50
+Inst. Elec. Cargador de Vehiculos Eléctricos E/S M - 1,Metropolitana,San Bernardo,AVENIDA PRESIDENTE JORGE ALESSANDRI 26517,-3.368.606,-7.072.606,98,Conector Tipo 2,AC,43
+Inst. Elec. Cargador de Vehiculos Eléctricos E/S M - 1,Metropolitana,San Bernardo,AVENIDA PRESIDENTE JORGE ALESSANDRI 26517,-3.368.606,-7.072.606,98,Combinado Tipo 2,DC,50
+Inst. Elec. Cargador de Vehiculos Eléctricos E/S M - 1,Metropolitana,San Bernardo,AVENIDA PRESIDENTE JORGE ALESSANDRI 26517,-3.368.606,-7.072.606,98,CHAdeMO,DC,50
+Instalacion electrica Electrolinera - 1,Maule,San Rafael,RUTA 5 SUR KM 239.5 s/n,-3.533.077,-7.155.273,98,CHAdeMO,DC,50
+Instalacion electrica Electrolinera - 1,Maule,San Rafael,RUTA 5 SUR KM 239.5 s/n,-3.533.077,-7.155.273,98,Combinado Tipo 2,DC,50
+Instalacion electrica Electrolinera - 1,Maule,San Rafael,RUTA 5 SUR KM 239.5 s/n,-3.533.077,-7.155.273,98,Conector Tipo 2,AC,43
+SAVE ESTACION DE SERVICIO ENEX CONCON - 1,Valparaíso,Concón,San Jose Maria Escriva de Balaguer 861,-329.507,-715.377,98,Conector Tipo 2,AC,43
+SAVE ESTACION DE SERVICIO ENEX CONCON - 1,Valparaíso,Concón,San Jose Maria Escriva de Balaguer 861,-329.507,-715.377,98,CHAdeMO,DC,50
+SAVE ESTACION DE SERVICIO ENEX CONCON - 1,Valparaíso,Concón,San Jose Maria Escriva de Balaguer 861,-329.507,-715.377,98,Combinado Tipo 2,DC,50
+Shell Autopista Central - 1,Metropolitana,San Bernardo,Ruta 5 sur KM 16.4 s/n,-3.358.058,-7.071.387,94,Combinado Tipo 2,DC,50
+Shell Autopista Central - 1,Metropolitana,San Bernardo,Ruta 5 sur KM 16.4 s/n,-3.358.058,-7.071.387,94,CHAdeMO,DC,50
+Shell Autopista Central - 1,Metropolitana,San Bernardo,Ruta 5 sur KM 16.4 s/n,-3.358.058,-7.071.387,94,Conector Tipo 2,AC,43
+Cargador Público ENGIE,Metropolitana,Las Condes,Presidente Riesco con Rosario Norte (Av. Pdte. Riesco #5810),-3.340.388,-7.057.396,44,Conector Tipo 2,AC,44
+Cargador Público ENGIE,Metropolitana,Las Condes,Presidente Riesco con Rosario Norte (Av. Pdte. Riesco #5810),-3.340.388,-7.057.396,44,Conector Tipo 2,AC,44
+Centro de Convenciones Stgo - 1,Metropolitana,Huechuraba,Avenida El Salto 5000,-3.338.515,-7.062.257,6,6,Conector Tipo 1,AC,6,6
+Centro de Convenciones Stgo - 1,Metropolitana,Huechuraba,Avenida El Salto 5000,-3.338.515,-7.062.257,6,6,Conector Tipo 2,AC,6,6
+Estacionamientos EME - 1,Metropolitana,Las Condes,Isidora Goyenechea 2939,-3.341.422,-7.060.025,3,5,Conector Tipo 1,AC,3,5
+Estacionamientos EME - 1,Metropolitana,Las Condes,Isidora Goyenechea 2939,-3.341.422,-7.060.025,3,5,Conector Tipo 2,AC,3,5
+Estacionamientos EME - 2,Metropolitana,Las Condes,Isidora Goyenechea 2939,-3.341.422,-7.060.025,3,5,Conector Tipo 1,AC,3,5
+Estacionamientos EME - 2,Metropolitana,Las Condes,Isidora Goyenechea 2939,-3.341.422,-7.060.025,3,5,Conector Tipo 2,AC,3,5
+Open Kennedy - 1,Metropolitana,Las Condes,Presidente Kennedy 5601,-3.340.118,-7.057.539,14,Conector Tipo 2,AC,7
+Open Kennedy - 1,Metropolitana,Las Condes,Presidente Kennedy 5601,-3.340.118,-7.057.539,14,Conector Tipo 2,AC,7
+Open Kennedy - 2,Metropolitana,Las Condes,Presidente Kennedy 5601,-3.340.118,-7.057.539,14,Conector Tipo 2,AC,7
+Open Kennedy - 2,Metropolitana,Las Condes,Presidente Kennedy 5601,-3.340.118,-7.057.539,14,Conector Tipo 2,AC,7
+Open Kennedy - 3,Metropolitana,Las Condes,Presidente Kennedy 5601,-3.340.118,-7.057.539,14,Conector Tipo 2,AC,7
+Open Kennedy - 3,Metropolitana,Las Condes,Presidente Kennedy 5601,-3.340.118,-7.057.539,14,Conector Tipo 2,AC,7
+Hotel Lago Grey - 1,Magallanes y de la Antártica Chilena,Torres del Paine,Sector Lago Grey S/N,-5.112.257,-7.311.596,7,4,Conector Tipo 1,AC,7,4
+Hotel Lago Grey - 2,Magallanes y de la Antártica Chilena,Torres del Paine,Sector Lago Grey S/N,-5.112.257,-7.311.596,7,4,Conector Tipo 1,AC,7,4
+Hotel Mandarin Oriental ex Hyatt - 1,Metropolitana,Las Condes,Kennedy 4601,-3.340.395,-7.058.281,44,Conector Tipo 2,AC,22
+Hotel Mandarin Oriental ex Hyatt - 1,Metropolitana,Las Condes,Kennedy 4601,-3.340.395,-7.058.281,44,Conector Tipo 2,AC,22
+Hotel Puyehue - 1,Los Lagos,Puyehue,Ruta internacional 215 Km 76,-4.071.135,-7.232.944,7,4,Conector Tipo 1,AC,7,4
+Hotel Puyehue - 2,Los Lagos,Puyehue,Ruta internacional 215 Km 76,-4.071.135,-7.232.944,7,4,Conector Tipo 1,AC,7,4
+Tanica Oriente - 1,Metropolitana,Vitacura,Santa Maria 5888,-3.337.966,-7.058.436,14,Conector Tipo 2,AC,7
+Tanica Oriente - 1,Metropolitana,Vitacura,Santa Maria 5888,-3.337.966,-7.058.436,14,Conector Tipo 2,AC,7
+TOTTUS FACTORIA - 1,Metropolitana,Providencia,AV. FRANCISCO BILBAO 451,-334.418,-7.062.604,22,Conector Tipo 2,AC,22
+Edificio Deja Vu,Metropolitana,Providencia,Miguel claro 275,-3.343.204,-7.062.044,7,4,Conector Tipo 2,AC,7,4
+Edificio Deja Vu,Metropolitana,Providencia,Miguel claro 275,-3.343.204,-7.062.044,7,4,Conector Tipo 2,AC,7,4
+Patio Los Militares - 1,Metropolitana,Las Condes,los militares 4661,-334.121,-7.058.118,7,Conector Tipo 1,AC,7
+Patio Los Militares - 2,Metropolitana,Las Condes,los militares 4661,-334.121,-7.058.118,7,Conector Tipo 2,AC,7
+SAVE MALL PLAZA CALAMA - 1,Antofagasta,Calama,Av Balmaceda 3242,-2.244.874,-6.892.074,7,4,Conector Tipo 2,AC,7,4
+SAVE MALL PLAZA CALAMA - 2,Antofagasta,Calama,Av Balmaceda 3242,-2.244.874,-6.892.074,7,4,Conector Tipo 2,AC,7,4
+Patio Alonso de Cordova - 1,Metropolitana,Vitacura,alonso de cordova 3788,-3.340.187,-7.059.291,7,Conector Tipo 1,AC,7
+Patio Alonso de Cordova - 2,Metropolitana,Vitacura,alonso de cordova 3788,-3.340.187,-7.059.291,7,Conector Tipo 2,AC,7
+Enel X - Shell Laguna Caren - 1,Metropolitana,Pudahuel,Ruta 68 Sur KM 18.5,-334.398,-7.084.116,50,Combinado Tipo 2,DC,50
+Enel X - Shell Laguna Caren - 1,Metropolitana,Pudahuel,Ruta 68 Sur KM 18.5,-334.398,-7.084.116,50,CHAdeMO,DC,50
+Enel X - Shell Laguna Caren - 1,Metropolitana,Pudahuel,Ruta 68 Sur KM 18.5,-334.398,-7.084.116,50,Conector Tipo 2,AC,43
+Centro Parque Araucano - 1,Metropolitana,Las Condes,Presidente riesco 5330,-3.339.742,-7.055.966,7,Conector Tipo 2,AC,7
+Centro Parque Araucano - 2,Metropolitana,Las Condes,Presidente riesco 5330,-3.339.742,-7.055.966,7,Conector Tipo 2,AC,7
+Centro Parque Araucano - 3,Metropolitana,Las Condes,Presidente riesco 5330,-3.339.742,-7.055.966,7,Conector Tipo 2,AC,7
+Centro Parque Araucano - 4,Metropolitana,Las Condes,Presidente riesco 5330,-3.339.742,-7.055.966,7,Conector Tipo 2,AC,7
+Centro Parque Araucano - 5,Metropolitana,Las Condes,Presidente riesco 5330,-3.339.742,-7.055.966,7,Conector Tipo 2,AC,7
+Centro Parque Araucano - 6,Metropolitana,Las Condes,Presidente riesco 5330,-3.339.742,-7.055.966,7,Conector Tipo 2,AC,7
+Centro Parque Araucano - 7,Metropolitana,Las Condes,Presidente riesco 5330,-3.339.742,-7.055.966,7,Conector Tipo 2,AC,7
+Centro Parque Araucano - 8,Metropolitana,Las Condes,Presidente riesco 5330,-3.339.742,-7.055.966,7,Conector Tipo 2,AC,7
+Centro Parque Araucano - 9,Metropolitana,Las Condes,Presidente riesco 5330,-3.339.742,-7.055.966,7,Conector Tipo 1,AC,7
+Mall Barrio Independencia - 1,Metropolitana,Independencia,Independencia 565,-3.342.463,-7.065.481,14,Conector Tipo 1,AC,7
+Mall Barrio Independencia - 1,Metropolitana,Independencia,Independencia 565,-3.342.463,-7.065.481,14,Conector Tipo 2,AC,7
+Mall del Centro - 1,Biobío,Concepción,Barros Arana 1068,-3.682.469,-7.304.527,14,Conector Tipo 2,AC,7
+Mall del Centro - 1,Biobío,Concepción,Barros Arana 1068,-3.682.469,-7.304.527,14,Conector Tipo 1,AC,7
+Boulevard Marina - 1,Valparaíso,Vina del Mar,Libertad 1348,-3.300.917,-715.485,14,Conector Tipo 1,AC,7
+Boulevard Marina - 1,Valparaíso,Vina del Mar,Libertad 1348,-3.300.917,-715.485,14,Conector Tipo 2,AC,7
+Mall Curicó - 1,Maule,Curicó,Villota 798,-3.498.804,-7.124.589,44,Conector Tipo 2,AC,22
+Mall Curicó - 1,Maule,Curicó,Villota 798,-3.498.804,-7.124.589,44,Conector Tipo 2,AC,22
+Mall Marina - 1,Valparaíso,Vina del Mar,Libertad 1348,-3.300.932,-7.154.674,14,Conector Tipo 1,AC,7
+Mall Marina - 1,Valparaíso,Vina del Mar,Libertad 1348,-3.300.932,-7.154.674,14,Conector Tipo 2,AC,7
+SAVE Mall Plaza La Serena - 1,Coquimbo,La Serena,alberto solari 1400,-2.991.254,-7.125.842,7,4,Conector Tipo 2,AC,7,4
+SAVE Mall Plaza La Serena - 2,Coquimbo,La Serena,alberto solari 1400,-2.991.254,-7.125.842,7,4,Conector Tipo 2,AC,7,4
+PUNTO DE CARGA DOBLE EVBOX MPOE - 1,Metropolitana,Cerrillos,Av. Americo Vespucio 1501,-33.517,-70.717,7,4,Conector Tipo 1,AC,7,4
+PUNTO DE CARGA DOBLE EVBOX MPOE - 2,Metropolitana,Cerrillos,Av. Americo Vespucio 1501,-33.517,-70.717,7,4,Conector Tipo 1,AC,7,4
+PUNTO DE CARGA DOBLE EVBOX MPOE - 3,Metropolitana,Cerrillos,Av. Americo Vespucio 1501,-33.517,-70.717,7,4,Conector Tipo 1,AC,7,4
+PUNTO DE CARGA DOBLE EVBOX MPOE - 4,Metropolitana,Cerrillos,Av. Americo Vespucio 1501,-33.517,-70.717,7,4,Conector Tipo 1,AC,7,4
+Mall Sport - 1,Metropolitana,Las Condes,Avenida Las Condes 13451,-3.337.041,-7.050.717,6,6,Conector Tipo 1,AC,6,6
+Mall Sport - 1,Metropolitana,Las Condes,Avenida Las Condes 13451,-3.337.041,-7.050.717,6,6,Conector Tipo 2,AC,6,6
+Movicenter Huechuraba - 1,Metropolitana,Huechuraba,Americo Vespucio Norte 1155,-3.337.014,-706.626,14,Conector Tipo 2,AC,7
+Movicenter Huechuraba - 1,Metropolitana,Huechuraba,Americo Vespucio Norte 1155,-3.337.014,-706.626,14,Conector Tipo 1,AC,7
+Alejandro Fleming Frente N° 7501 - 1,Metropolitana,Las Condes,Alejandro Fleming N/A,-3.342.545,-7.055.409,48,Conector Tipo 2,AC,22
+Alejandro Fleming Frente N° 7501 - 1,Metropolitana,Las Condes,Alejandro Fleming N/A,-3.342.545,-7.055.409,48,Conector Tipo 2,AC,22
+Entrada Jumbo - 1,Metropolitana,Las Condes,Juan de Austria N/A,-3.343.089,-7.057.912,48,Conector Tipo 2,AC,22
+Entrada Jumbo - 1,Metropolitana,Las Condes,Juan de Austria N/A,-3.343.089,-7.057.912,48,Conector Tipo 2,AC,22
+Estadio Francés - 1,Metropolitana,Las Condes,Presidente Errazuriz N/A,-3.342.129,-705.953,48,Conector Tipo 2,AC,22
+Estadio Francés - 1,Metropolitana,Las Condes,Presidente Errazuriz N/A,-3.342.129,-705.953,48,Conector Tipo 2,AC,22
+Inversión Vida Parque SA - 1,Metropolitana,Las Condes,Av. Plaza N/A,-333.927,-7.050.372,48,Conector Tipo 2,AC,22
+Inversión Vida Parque SA - 1,Metropolitana,Las Condes,Av. Plaza N/A,-333.927,-7.050.372,48,Conector Tipo 2,AC,22
+Presidente Errazuriz frente al Nº 3753 - 1,Metropolitana,Las Condes,Presidente Errazuriz N/A,-3.342.027,-7.058.846,48,Conector Tipo 2,AC,44
+Presidente Errazuriz frente al Nº 3753 - 1,Metropolitana,Las Condes,Presidente Errazuriz N/A,-3.342.027,-7.058.846,48,Conector Tipo 2,AC,44
+CARGADORES ELECTRICOS MALL PLAZA COPIAPO - 1,Atacama,Copiapó,MAIPU 109,-2.736.866,-7.033.909,7,4,Conector Tipo 2,AC,7,4
+CARGADORES ELECTRICOS MALL PLAZA COPIAPO - 2,Atacama,Copiapó,MAIPU 109,-2.736.866,-7.033.909,7,4,Conector Tipo 2,AC,7,4
+ELECTROLINERA MALL PLAZA ARICA - 1,Arica y Parinacota,Arica,Avenida Diego Portales 640,-1.846.971,-7.030.857,7,4,Conector Tipo 2,AC,7,4
+ELECTROLINERA MALL PLAZA ARICA - 2,Arica y Parinacota,Arica,Avenida Diego Portales 640,-1.846.971,-7.030.857,7,4,Conector Tipo 2,AC,7,4
+ESTACIÓN DE CARGA PARA VEHÍCULOS PLAZA ALAMEDA - 1,Metropolitana,Estación Central,Avenida Libertador Bernardo O´Higgins 3470,-3.345.273,-7.068.224,7,4,Conector Tipo 2,AC,7,4
+ESTACIÓN DE CARGA PARA VEHÍCULOS PLAZA ALAMEDA - 2,Metropolitana,Estación Central,Avenida Libertador Bernardo O´Higgins 3470,-3.345.273,-7.068.224,7,4,Conector Tipo 2,AC,7,4
+PUNTO DE CARGA DOBLE EV-BOX MALL PLAZA SUR - 1,Metropolitana,San Bernardo,AV. PRESIDENTE JORGE ALESSANDRI 20040,-336.317,-707.104,7,4,Conector Tipo 2,AC,7,4
+PUNTO DE CARGA DOBLE EV-BOX MALL PLAZA SUR - 2,Metropolitana,San Bernardo,AV. PRESIDENTE JORGE ALESSANDRI 20040,-336.317,-707.104,7,4,Conector Tipo 2,AC,7,4
+PUNTO DE RECARGA DOBLE EV-BOX - 1,Metropolitana,Huechuraba,avenida Americo Vespucio 1737,-3.336.669,-706.788,7,4,Conector Tipo 2,AC,7,4
+PUNTO DE RECARGA DOBLE EV-BOX - 2,Metropolitana,Huechuraba,avenida Americo Vespucio 1737,-3.336.669,-706.788,7,4,Conector Tipo 2,AC,7,4
+PUNTO DE RECARGA DOBLE EV-BOX - 3,Metropolitana,Huechuraba,avenida Americo Vespucio 1737,-3.336.669,-706.788,7,4,Conector Tipo 2,AC,7,4
+PUNTO DE RECARGA DOBLE EV-BOX - 4,Metropolitana,Huechuraba,avenida Americo Vespucio 1737,-3.336.669,-706.788,7,4,Conector Tipo 2,AC,7,4
+Parque Arauco, Presidente Kennedy Nº 5413 - 1,Metropolitana,Las Condes,Presidente Kennedy 5413,-334.018,-7.057.972,14,Conector Tipo 2,AC,7
+Parque Arauco, Presidente Kennedy Nº 5413 - 1,Metropolitana,Las Condes,Presidente Kennedy 5413,-334.018,-7.057.972,14,Conector Tipo 2,AC,7
+Luz Del Norte - 1,Atacama,Copiapó,Ruta C-17 46,-2.701.836,-6.990.014,44,Conector Tipo 2,AC,22
+Luz Del Norte - 1,Atacama,Copiapó,Ruta C-17 46,-2.701.836,-6.990.014,44,Conector Tipo 2,AC,22
+Parque Metropolitano- Entrada Pedro de Valdivia - 1,Metropolitana,Providencia,Pedro de Valdivia Norte 699,-3.341.533,-7.061.739,44,Conector Tipo 2,AC,22
+Parque Metropolitano- Entrada Pedro de Valdivia - 1,Metropolitana,Providencia,Pedro de Valdivia Norte 699,-3.341.533,-7.061.739,44,Conector Tipo 2,AC,22
+Parque Metropolitano_Jardín Mapulemo - 1,Metropolitana,Recoleta,Pio Nono 450 p2,-3.341.383,-706.208,44,Conector Tipo 2,AC,22
+Parque Metropolitano_Jardín Mapulemo - 1,Metropolitana,Recoleta,Pio Nono 450 p2,-3.341.383,-706.208,44,Conector Tipo 2,AC,22
+Grupo Patio Foster - 1,Metropolitana,Las Condes,Enrique Foster 21,-3.341.556,-7.059.412,7,Conector Tipo 1,AC,7
+Grupo Patio Foster - 2,Metropolitana,Las Condes,Enrique Foster 21,-3.341.556,-7.059.412,7,Conector Tipo 2,AC,7
+Hotel Patagonico - 1,Maule,Talca,Dos Norte 3835,-3.543.508,-7.161.566,44,Conector Tipo 2,AC,22
+Hotel Patagonico - 1,Maule,Talca,Dos Norte 3835,-3.543.508,-7.161.566,44,Conector Tipo 2,AC,22
+PUNTO DE RECARGA DOBLE EV-BOX_1 MPAN - 1,Antofagasta,Antofagasta,Av Balmaceda 2355,-2.364.621,-7.040.109,7,4,Conector Tipo 2,AC,7,4
+PUNTO DE RECARGA DOBLE EV-BOX_1 MPAN - 2,Antofagasta,Antofagasta,Av Balmaceda 2355,-2.364.621,-7.040.109,7,4,Conector Tipo 2,AC,7,4
+SAVE MALL PLAZA TOBALABA - 1,Metropolitana,Puente Alto,AVENIDA CAMILO HENRIQUEZ 3692,-3.356.926,-7.055.583,7,4,Conector Tipo 2,AC,7,4
+SAVE MALL PLAZA TOBALABA - 2,Metropolitana,Puente Alto,AVENIDA CAMILO HENRIQUEZ 3692,-3.356.926,-7.055.583,7,4,Conector Tipo 2,AC,7,4
+Electrolinera Mall Plaza Los Angeles - 1,Biobío,Los Ángeles,Valdivia 440,-3.746.803,-7.235.279,7,4,Conector Tipo 2,AC,7,4
+Electrolinera Mall Plaza Los Angeles - 2,Biobío,Los Ángeles,Valdivia 440,-3.746.803,-7.235.279,7,4,Conector Tipo 2,AC,7,4
+Electrolineras Mall Trebol - 1,Biobío,Concepción,Jorge Alessandri 3177,-3.679.204,-730.656,7,4,Conector Tipo 2,AC,7,4
+Electrolineras Mall Trebol - 2,Biobío,Concepción,Jorge Alessandri 3177,-3.679.204,-730.656,7,4,Conector Tipo 2,AC,7,4
+Electrolineras Mall Trebol - 3,Biobío,Concepción,Jorge Alessandri 3177,-3.679.204,-730.656,7,4,Conector Tipo 2,AC,7,4
+Electrolineras Mall Trebol - 4,Biobío,Concepción,Jorge Alessandri 3177,-3.679.204,-730.656,7,4,Conector Tipo 2,AC,7,4
+Cargador Intervial Angostura - 1,Metropolitana,Paine,Panamericana sur 1391,-3.390.666,-7.073.309,55,Conector Tipo 2,AC,43
+Cargador Intervial Angostura - 1,Metropolitana,Paine,Panamericana sur 1391,-3.390.666,-7.073.309,55,Combinado Tipo 2,DC,50
+Cargador Intervial Angostura - 1,Metropolitana,Paine,Panamericana sur 1391,-3.390.666,-7.073.309,55,CHAdeMO,DC,50
+Parking Saba Guardia Vieja - 1,Metropolitana,Providencia,Avenida providencia 2099,-334.213,-7.060.905,7,Conector Tipo 2,AC,7
+Parking Saba Guardia Vieja - 2,Metropolitana,Providencia,Avenida providencia 2099,-334.213,-7.060.905,7,Conector Tipo 2,AC,7
+Parking Saba Guardia Vieja - 3,Metropolitana,Providencia,Avenida providencia 2099,-334.213,-7.060.905,7,Conector Tipo 2,AC,7
+Parking Saba Marchant Pereira - 1,Metropolitana,Providencia,Avenida providencia 1909,-3.342.508,-7.061.364,7,Conector Tipo 2,AC,7
+Parking Saba Marchant Pereira - 2,Metropolitana,Providencia,Avenida providencia 1909,-3.342.508,-7.061.364,7,Conector Tipo 2,AC,7
+Parking Saba Marchant Pereira - 3,Metropolitana,Providencia,Avenida providencia 1909,-3.342.508,-7.061.364,7,Conector Tipo 2,AC,7
+Parking Saba Pedro de Valdivia - 1,Metropolitana,Providencia,Avenida providencia 2001,-3.342.361,-7.061.207,7,Conector Tipo 2,AC,7
+Parking Saba Pedro de Valdivia - 2,Metropolitana,Providencia,Avenida providencia 2001,-3.342.361,-7.061.207,7,Conector Tipo 2,AC,7
+Parking Saba Pedro de Valdivia - 3,Metropolitana,Providencia,Avenida providencia 2001,-3.342.361,-7.061.207,7,Conector Tipo 2,AC,7
+Parking Saba Ricardo Lyon - 1,Metropolitana,Providencia,avenida providencia 2203,-3.342.187,-706.098,7,Conector Tipo 2,AC,7
+Parking Saba Ricardo Lyon - 2,Metropolitana,Providencia,avenida providencia 2203,-3.342.187,-706.098,7,Conector Tipo 2,AC,7
+Parking Saba Ricardo Lyon - 3,Metropolitana,Providencia,avenida providencia 2203,-3.342.187,-706.098,7,Conector Tipo 2,AC,7
+Saba Santa Lucia - 1,Metropolitana,Santiago,victoria subercaseaux 400,-3.343.821,-7.064.277,7,Conector Tipo 2,AC,7
+Saba Santa Lucia - 2,Metropolitana,Santiago,victoria subercaseaux 400,-3.343.821,-7.064.277,7,Conector Tipo 2,AC,7
+Saba Santa Lucia - 3,Metropolitana,Santiago,victoria subercaseaux 400,-3.343.821,-7.064.277,7,Conector Tipo 2,AC,7
+Saba Santa Rosa - 1,Metropolitana,Santiago,Santa Rosa 76,-3.344.476,-7.064.557,7,Conector Tipo 2,AC,7
+Saba Santa Rosa - 2,Metropolitana,Santiago,Santa Rosa 76,-3.344.476,-7.064.557,7,Conector Tipo 2,AC,7
+Saba Santa Rosa - 3,Metropolitana,Santiago,Santa Rosa 76,-3.344.476,-7.064.557,7,Conector Tipo 2,AC,7
+Saba Plaza de Armas - 1,Metropolitana,Santiago,21 de mayo 576,-3.343.536,-7.064.991,7,Conector Tipo 2,AC,7
+Saba Plaza de Armas - 2,Metropolitana,Santiago,21 de mayo 576,-3.343.536,-7.064.991,7,Conector Tipo 2,AC,7
+Saba Plaza de Armas - 3,Metropolitana,Santiago,21 de mayo 576,-3.343.536,-7.064.991,7,Conector Tipo 2,AC,7
+CASTRO BNUP SAESA - 1,Los Lagos,Castro,Gamboa 0000,-4.248.181,-7.376.808,44,Conector Tipo 2,AC,22
+CASTRO BNUP SAESA - 1,Los Lagos,Castro,Gamboa 0000,-4.248.181,-7.376.808,44,Conector Tipo 2,AC,22
+Oficina Comercial Edelaysen,Aysén,Coyhaique,Francisco Bilbao 449,-455.729,-7.207.092,44,Conector Tipo 2,AC,22
+Oficina Comercial Edelaysen,Aysén,Coyhaique,Francisco Bilbao 449,-455.729,-7.207.092,44,Conector Tipo 2,AC,22
+Oficina Comercial SAESA Osorno,Los Lagos,Osorno,Eleuterio Ramírez 705,-4.057.306,-7.313.868,44,Conector Tipo 2,AC,22
+Oficina Comercial SAESA Osorno,Los Lagos,Osorno,Eleuterio Ramírez 705,-4.057.306,-7.313.868,44,Conector Tipo 2,AC,22
+Oficina Comercial SAESA Valdivia,Los Ríos,Valdivia,Yungay 646,-3.981.552,-732.483,44,Conector Tipo 2,AC,22
+Oficina Comercial SAESA Valdivia,Los Ríos,Valdivia,Yungay 646,-3.981.552,-732.483,44,Conector Tipo 2,AC,22
+Proyecto Ancud cargadores SAESA - 1,Los Lagos,Ancud,Libertad 370,-4.186.844,-7.382.918,44,Conector Tipo 2,AC,22
+Proyecto Ancud cargadores SAESA - 1,Los Lagos,Ancud,Libertad 370,-4.186.844,-7.382.918,44,Conector Tipo 2,AC,22
+Proyecto Aysen cargadores SAESA - 1,Aisén del General Carlos Ibáñez del Campo,Aysén,Bernardo O´Higgins 520,-4.540.607,-726.976,44,Conector Tipo 2,AC,22
+Proyecto Aysen cargadores SAESA - 1,Aisén del General Carlos Ibáñez del Campo,Aysén,Bernardo O´Higgins 520,-4.540.607,-726.976,44,Conector Tipo 2,AC,22
+Proyecto Loncoche cargadores SAESA - 1,La Araucanía,Loncoche,Ignacio Serrano 340,-3.937.022,-7.262.958,44,Conector Tipo 2,AC,22
+Proyecto Loncoche cargadores SAESA - 1,La Araucanía,Loncoche,Ignacio Serrano 340,-3.937.022,-7.262.958,44,Conector Tipo 2,AC,22
+Proyecto Paillaco cargadores SAESA - 1,De los Ríos,Paillaco,Arturo Prat 750,-4.007.117,-7.287.336,44,Conector Tipo 2,AC,22
+Proyecto Paillaco cargadores SAESA - 1,De los Ríos,Paillaco,Arturo Prat 750,-4.007.117,-7.287.336,44,Conector Tipo 2,AC,22
+Proyecto Panguipulli cargadores SAESA - 1,De los Ríos,Panguipulli,Bernardo O´Higgins 780,-3.964.191,-7.233.211,44,Conector Tipo 2,AC,22
+Proyecto Panguipulli cargadores SAESA - 1,De los Ríos,Panguipulli,Bernardo O´Higgins 780,-3.964.191,-7.233.211,44,Conector Tipo 2,AC,22
+PUYEHUE BNUP SAESA - 1,Los Lagos,Puyehue,Entre Lagos 0000,-4.068.346,-7.260.423,44,Conector Tipo 2,AC,22
+PUYEHUE BNUP SAESA - 1,Los Lagos,Puyehue,Entre Lagos 0000,-4.068.346,-7.260.423,44,Conector Tipo 2,AC,22
+SAESA Puerto Varas 1 - 1,Los Lagos,Puerto Varas,Del Salvador 219,-4.131.819,-7.298.258,44,Conector Tipo 2,AC,22
+SAESA Puerto Varas 1 - 1,Los Lagos,Puerto Varas,Del Salvador 219,-4.131.819,-7.298.258,44,Conector Tipo 2,AC,22
+Autoplanet Las Condes - 1,Metropolitana,Las Condes,Avenida Las Condes 10462,-3.338.263,-705.334,7,4,Conector Tipo 2,AC,7,4
+Autoplanet Las Condes - 2,Metropolitana,Las Condes,Avenida Las Condes 10462,-3.338.263,-705.334,7,4,Conector Tipo 2,AC,7,4
+Autoplanet Lo Barnechea - 1,Metropolitana,Lo Barnechea,avenida raúl labbé 12931,-3.336.654,-7.051.665,7,4,Conector Tipo 2,AC,7,4
+Autoplanet Lo Barnechea 2do - 1,Metropolitana,Lo Barnechea,avenida raúl labbé 12931,-3.336.387,-7.051.268,7,4,Conector Tipo 2,AC,7,4
+Enel X - Autoplanet Concepcion - 1,Biobío,Concepción,avenida paicavi 1796,-36,81,-7.305.032,7,4,Conector Tipo 2,AC,7,4
+Enel X - Autoplanet Concepcion - 2,Biobío,Concepción,avenida paicavi 1796,-36,81,-7.305.032,7,4,Conector Tipo 2,AC,7,4
+Enel X - Autoplanet Los Andes - 1,Valparaíso,Los Andes,avenida santa teresa 1279,-328.397,-7.060.871,7,4,Conector Tipo 2,AC,7,4
+Enel X - Autoplanet Los Andes - 2,Valparaíso,Los Andes,avenida santa teresa 1279,-328.397,-7.060.871,7,4,Conector Tipo 2,AC,7,4
+Enel X- Autoplanet Maipu - 1,Metropolitana,Maipú,camino melipilla 17800,-3.354.954,-7.078.875,7,4,Conector Tipo 2,AC,7,4
+Enel X- Autoplanet Maipu - 2,Metropolitana,Maipú,camino melipilla 17800,-3.354.954,-7.078.875,7,4,Conector Tipo 2,AC,7,4
+Aeropuerto Concepcion - 1,Biobío,Talcahuano,Presidente Jorge Alessandri Rodriguez 5001,-3.677.725,-7.305.999,44,Conector Tipo 2,AC,22
+Aeropuerto Concepcion - 1,Biobío,Talcahuano,Presidente Jorge Alessandri Rodriguez 5001,-3.677.725,-7.305.999,44,Conector Tipo 2,AC,22
+Electrolinera-53 - 1,Metropolitana,Providencia,Avenida Francisco Bilbao 1439,-3.343.934,-7.061.451,7,Conector Tipo 1,AC,7
+Enel X - UFRO Temuco - 1,La Araucanía,Temuco,Uruguay 1720,-3.874.647,-7.261.764,44,Conector Tipo 2,AC,22
+Enel X - UFRO Temuco - 1,La Araucanía,Temuco,Uruguay 1720,-3.874.647,-7.261.764,44,Conector Tipo 2,AC,22
+Enel X - UFRO Temuco - 2,La Araucanía,Temuco,Uruguay 1720,-3.874.647,-7.261.764,44,Conector Tipo 2,AC,22
+Enel X - UFRO Temuco - 2,La Araucanía,Temuco,Uruguay 1720,-3.874.647,-7.261.764,44,Conector Tipo 2,AC,22
+UAI Viña Del Mar - 1,Valparaíso,Vina del Mar,Camino Padre Hurtado 750,-3.301.948,-7.153.027,14,Conector Tipo 2,AC,7
+UAI Viña Del Mar - 1,Valparaíso,Vina del Mar,Camino Padre Hurtado 750,-3.301.948,-7.153.027,14,Conector Tipo 2,AC,7
+Universidad Adolfo Ibañez - 1,Metropolitana,Penalolén,Diagonal Las Torres 2700,-3.349.013,-7.051.898,44,Conector Tipo 2,AC,22
+Universidad Adolfo Ibañez - 1,Metropolitana,Penalolén,Diagonal Las Torres 2700,-3.349.013,-7.051.898,44,Conector Tipo 2,AC,22
+Universidad de Los Andes - 1,Metropolitana,Las Condes,San Carlos de Apoquindo 2300,-3.340.417,-7.050.836,44,Conector Tipo 2,AC,22
+Universidad de Los Andes - 1,Metropolitana,Las Condes,San Carlos de Apoquindo 2300,-3.340.417,-7.050.836,44,Conector Tipo 2,AC,22
+SAVE LIDER IRARRAZAVAL - 1,Metropolitana,Nunoa,Avenida Irarrázaval 2928,-3.345.432,-7.060.044,24,CHAdeMO,DC,24
+SAVE LIDER IRARRAZAVAL - 1,Metropolitana,Nunoa,Avenida Irarrázaval 2928,-3.345.432,-7.060.044,24,Combinado Tipo 2,DC,24
+SAVE SUPERM.LIDER BUENAVENTURA WALMART-COLBUN - 1,Metropolitana,Vitacura,BUENAVENTURA 1770,-3.338.677,-7.056.821,24,Combinado Tipo 2,DC,24
+SAVE SUPERM.LIDER BUENAVENTURA WALMART-COLBUN - 1,Metropolitana,Vitacura,BUENAVENTURA 1770,-3.338.677,-7.056.821,24,CHAdeMO,DC,24
+SAVE SUPERM.LIDER PRINCIPE DE GALES WALMART-COLBUN - 1,Metropolitana,La Reina,Príncipe de Gales 9140,-3.344.127,-7.053.553,24,Combinado Tipo 2,DC,24
+SAVE SUPERM.LIDER PRINCIPE DE GALES WALMART-COLBUN - 1,Metropolitana,La Reina,Príncipe de Gales 9140,-3.344.127,-7.053.553,24,CHAdeMO,DC,24
+SAVE supermercado Lider Pie Andino - 1,Metropolitana,Lo Barnechea,paseo pie andino 5885,-3.332.395,-7.053.919,22,Combinado Tipo 2,DC,22
+SAVE supermercado Lider Pie Andino - 1,Metropolitana,Lo Barnechea,paseo pie andino 5885,-3.332.395,-7.053.919,22,CHAdeMO,DC,22
