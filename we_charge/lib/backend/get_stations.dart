@@ -5,3 +5,10 @@ Future getStations() async {
       FirebaseFirestore.instance.collection('stations.v1');
   return stations.get();
 }
+
+Future getStationsByDistance(double lat, double lng, bool asc) {
+  CollectionReference stations =
+      FirebaseFirestore.instance.collection('stations.v1');
+
+  return stations.get();
+}

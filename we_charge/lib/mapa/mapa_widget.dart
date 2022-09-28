@@ -1,9 +1,8 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
+
 import '../flutter_flow/flutter_flow_google_map.dart';
 import '../flutter_flow/flutter_flow_theme.dart';
-import '../flutter_flow/flutter_flow_util.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class MapaWidget extends StatefulWidget {
   const MapaWidget({Key key}) : super(key: key);
@@ -16,6 +15,37 @@ class _MapaWidgetState extends State<MapaWidget> {
   LatLng googleMapsCenter;
   final googleMapsController = Completer<GoogleMapController>();
   final scaffoldKey = GlobalKey<ScaffoldState>();
+  Iterable<FlutterFlowMarker> markers = [];
+
+  @override
+  void initState() {
+    // TODO: implement initState
+
+    _onMapCreated();
+    super.initState();
+  }
+
+  void _onMapCreated() {
+    CollectionReference stations =
+        FirebaseFirestore.instance.collection('stations.v1');
+    stations.get().then(
+      (snapshot) {
+        for (var station in snapshot.docs) {
+          try {
+            print(station.get('address'));
+            var marker = FlutterFlowMarker(
+                station.get('address'),
+                LatLng(double.parse(station.get('latitude')),
+                    double.parse(station.get('longitude'))));
+            markers = markers.toList()..add(marker);
+            setState(() {});
+          } catch (e) {
+            print(e);
+          }
+        }
+      },
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -43,6 +73,7 @@ class _MapaWidgetState extends State<MapaWidget> {
             showMapToolbar: false,
             showTraffic: true,
             centerMapOnMarkerTap: true,
+            markers: markers,
           ),
         ),
       ),

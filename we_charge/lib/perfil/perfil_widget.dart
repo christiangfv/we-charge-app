@@ -60,7 +60,103 @@ class _PerfilWidgetState extends State<PerfilWidget> {
                 mainAxisSize: MainAxisSize.max,
                 children: [
                   Text(
-                    'Distance',
+                    'Distancia',
+                    style: FlutterFlowTheme.of(context).subtitle2,
+                  ),
+                ],
+              ),
+              Row(
+                mainAxisSize: MainAxisSize.max,
+                children: [
+                  Expanded(
+                    child: Padding(
+                      padding: EdgeInsetsDirectional.fromSTEB(0, 12, 0, 0),
+                      child: Slider(
+                        activeColor: FlutterFlowTheme.of(context).primaryColor,
+                        inactiveColor:
+                            FlutterFlowTheme.of(context).primaryBackground,
+                        min: 25,
+                        max: 250,
+                        value: sliderValue ??= 125,
+                        label: sliderValue.toString(),
+                        divisions: 23,
+                        onChanged: (newValue) {
+                          setState(() => sliderValue = newValue);
+                        },
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+              Row(
+                mainAxisSize: MainAxisSize.max,
+                children: [
+                  Text(
+                    'Duración',
+                    style: FlutterFlowTheme.of(context).subtitle2,
+                  ),
+                ],
+              ),
+              Row(
+                mainAxisSize: MainAxisSize.max,
+                children: [
+                  Expanded(
+                    child: Padding(
+                      padding: EdgeInsetsDirectional.fromSTEB(0, 12, 0, 0),
+                      child: Slider(
+                        activeColor: FlutterFlowTheme.of(context).primaryColor,
+                        inactiveColor:
+                            FlutterFlowTheme.of(context).primaryBackground,
+                        min: 25,
+                        max: 250,
+                        value: sliderValue ??= 125,
+                        label: sliderValue.toString(),
+                        divisions: 23,
+                        onChanged: (newValue) {
+                          setState(() => sliderValue = newValue);
+                        },
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+              Row(
+                mainAxisSize: MainAxisSize.max,
+                children: [
+                  Text(
+                    'Tiempo de espera',
+                    style: FlutterFlowTheme.of(context).subtitle2,
+                  ),
+                ],
+              ),
+              Row(
+                mainAxisSize: MainAxisSize.max,
+                children: [
+                  Expanded(
+                    child: Padding(
+                      padding: EdgeInsetsDirectional.fromSTEB(0, 12, 0, 0),
+                      child: Slider(
+                        activeColor: FlutterFlowTheme.of(context).primaryColor,
+                        inactiveColor:
+                            FlutterFlowTheme.of(context).primaryBackground,
+                        min: 25,
+                        max: 250,
+                        value: sliderValue ??= 125,
+                        label: sliderValue.toString(),
+                        divisions: 23,
+                        onChanged: (newValue) {
+                          setState(() => sliderValue = newValue);
+                        },
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+              Row(
+                mainAxisSize: MainAxisSize.max,
+                children: [
+                  Text(
+                    'Precio',
                     style: FlutterFlowTheme.of(context).subtitle2,
                   ),
                 ],

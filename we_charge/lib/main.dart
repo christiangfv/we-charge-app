@@ -52,6 +52,7 @@ class _MyAppState extends State<MyApp> {
       darkTheme: ThemeData(brightness: Brightness.dark),
       themeMode: _themeMode,
       home: NavBarPage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
@@ -80,7 +81,6 @@ class _NavBarPageState extends State<NavBarPage> {
     final tabs = {
       'Estaciones': EstacionesWidget(),
       'Mapa': MapaWidget(),
-      'Perfil': PerfilWidget(),
     };
     final currentIndex = tabs.keys.toList().indexOf(_currentPage);
     return Scaffold(
@@ -148,30 +148,6 @@ class _NavBarPageState extends State<NavBarPage> {
               ],
             ),
           ),
-          FloatingNavbarItem(
-            customWidget: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                Icon(
-                  Icons.electric_car,
-                  color: currentIndex == 2
-                      ? FlutterFlowTheme.of(context).primaryColor
-                      : FlutterFlowTheme.of(context).secondaryText,
-                  size: 24,
-                ),
-                Text(
-                  'Perfil',
-                  overflow: TextOverflow.ellipsis,
-                  style: TextStyle(
-                    color: currentIndex == 2
-                        ? FlutterFlowTheme.of(context).primaryColor
-                        : FlutterFlowTheme.of(context).secondaryText,
-                    fontSize: 11.0,
-                  ),
-                ),
-              ],
-            ),
-          )
         ],
       ),
     );

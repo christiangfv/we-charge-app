@@ -1,3 +1,6 @@
+import 'package:we_charge/estaciones/action_button_fnid.dart';
+import 'package:we_charge/estaciones/drop_down_asc_desc.dart';
+import 'package:we_charge/estaciones/drop_down_parameters.dart';
 import 'package:we_charge/estaciones/list_widget.dart';
 
 import '../flutter_flow/flutter_flow_theme.dart';
@@ -41,7 +44,22 @@ class _EstacionesWidgetState extends State<EstacionesWidget> {
         elevation: 2,
       ),
       backgroundColor: FlutterFlowTheme.of(context).primaryBackground,
-      body: GetStations(),
+      body: Column(
+        children: [
+          Container(
+            height: 50,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                DropDownParameter(),
+                DropDownAscDesc(),
+                ButtonFind(),
+              ],
+            ),
+          ),
+          Expanded(child: GetStations()),
+        ],
+      ),
     );
   }
 }
